@@ -1,0 +1,6620 @@
+[
+ {
+   "address": "1100 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.0999557,
+   "latitude": 49.2724177
+ },
+ {
+   "address": "1900 Pine St., Vancouver, BC, Canada",
+   "ticketNumber": 290,
+   "longitude": -123.1431974,
+   "latitude": 49.268873
+ },
+ {
+   "address": "900 Canada Pl., Vancouver, BC, Canada",
+   "ticketNumber": 1350,
+   "longitude": -123.1138462,
+   "latitude": 49.28716480000001
+ },
+ {
+   "address": "8200 Fraser St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0907364,
+   "latitude": 49.2108116
+ },
+ {
+   "address": "300 62nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.1127127,
+   "latitude": 49.2140535
+ },
+ {
+   "address": "1400 Charles St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.074933,
+   "latitude": 49.27282229999999
+ },
+ {
+   "address": "1700 Graveley St., Vancouver, BC, Canada",
+   "ticketNumber": 218,
+   "longitude": -123.0696517,
+   "latitude": 49.2705077
+ },
+ {
+   "address": "1000 Thurlow St., Vancouver, BC, Canada",
+   "ticketNumber": 302,
+   "longitude": -123.1280336,
+   "latitude": 49.28250329999999
+ },
+ {
+   "address": "2100 Graveley St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0618636,
+   "latitude": 49.2704483
+ },
+ {
+   "address": "1400 Semlin Dr., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0635975,
+   "latitude": 49.27153879999999
+ },
+ {
+   "address": "1100 Garden Dr., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0575878,
+   "latitude": 49.2746138
+ },
+ {
+   "address": "2300 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 110,
+   "longitude": -123.1029227,
+   "latitude": 49.2637375
+ },
+ {
+   "address": "2700 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0812084,
+   "latitude": 49.2603988
+ },
+ {
+   "address": "400 Campbell Ave., Vancouver, BC, Canada",
+   "ticketNumber": 41,
+   "longitude": -123.0837895,
+   "latitude": 49.2801881
+ },
+ {
+   "address": "2700 3rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1666136,
+   "latitude": 49.2690516
+ },
+ {
+   "address": "800 Union St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0871953,
+   "latitude": 49.2772365
+ },
+ {
+   "address": "5600 Olympic St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1892925,
+   "latitude": 49.23562219999999
+ },
+ {
+   "address": "100 Dunlevy Ave., Vancouver, BC, Canada",
+   "ticketNumber": 54,
+   "longitude": -123.0952585,
+   "latitude": 49.2840999
+ },
+ {
+   "address": "2400 Kamloops St., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.0547006,
+   "latitude": 49.2629423
+ },
+ {
+   "address": "4200 John St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0972558,
+   "latitude": 49.2475508
+ },
+ {
+   "address": "300 Hawks Ave., Vancouver, BC, Canada",
+   "ticketNumber": 83,
+   "longitude": -123.0868314,
+   "latitude": 49.2819063
+ },
+ {
+   "address": "4400 John St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0972263,
+   "latitude": 49.245861
+ },
+ {
+   "address": "2500 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.1836067,
+   "latitude": 49.2639691
+ },
+ {
+   "address": "4700 Moss St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0426014,
+   "latitude": 49.2425559
+ },
+ {
+   "address": "700 70th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1212779,
+   "latitude": 49.2082655
+ },
+ {
+   "address": "2800 23rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0468336,
+   "latitude": 49.2495814
+ },
+ {
+   "address": "1500 Renfrew St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.044018,
+   "latitude": 49.2706491
+ },
+ {
+   "address": "2100 3rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1531866,
+   "latitude": 49.2687567
+ },
+ {
+   "address": "800 Georgia St. E., Vancouver, BC, Canada",
+   "ticketNumber": 73,
+   "longitude": -123.0877294,
+   "latitude": 49.2781824
+ },
+ {
+   "address": "1900 Pendrell St., Vancouver, BC, Canada",
+   "ticketNumber": 91,
+   "longitude": -123.1423326,
+   "latitude": 49.2890344
+ },
+ {
+   "address": "2100 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 110,
+   "longitude": -123.1027941,
+   "latitude": 49.2664262
+ },
+ {
+   "address": "500 Railway St., Vancouver, BC, Canada",
+   "ticketNumber": 60,
+   "longitude": -123.0928516,
+   "latitude": 49.28496149999999
+ },
+ {
+   "address": "3200 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 148,
+   "longitude": -123.100952,
+   "latitude": 49.25652969999999
+ },
+ {
+   "address": "3500 34th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1819787,
+   "latitude": 49.2414452
+ },
+ {
+   "address": "500 Davie St., Vancouver, BC, Canada",
+   "ticketNumber": 89,
+   "longitude": -123.1242288,
+   "latitude": 49.2758822
+ },
+ {
+   "address": "4300 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.1047888,
+   "latitude": 49.2472753
+ },
+ {
+   "address": "2000 6th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 61,
+   "longitude": -123.1504121,
+   "latitude": 49.2663798
+ },
+ {
+   "address": "200 Georgia St. W., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.1142106,
+   "latitude": 49.2798949
+ },
+ {
+   "address": "1800 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 28,
+   "longitude": -123.0676882,
+   "latitude": 49.2460951
+ },
+ {
+   "address": "600 Georgia St. W., Vancouver, BC, Canada",
+   "ticketNumber": 32,
+   "longitude": -123.1173078,
+   "latitude": 49.2819458
+ },
+ {
+   "address": "700 24th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 28,
+   "longitude": -123.0903436,
+   "latitude": 49.2492041
+ },
+ {
+   "address": "100 Powell St., Vancouver, BC, Canada",
+   "ticketNumber": 855,
+   "longitude": -123.1018839,
+   "latitude": 49.2831272
+ },
+ {
+   "address": "900 Windermere St., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0363279,
+   "latitude": 49.2763961
+ },
+ {
+   "address": "1900 Kamloops St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.054699,
+   "latitude": 49.2675796
+ },
+ {
+   "address": "2100 Waterloo St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1797309,
+   "latitude": 49.2678399
+ },
+ {
+   "address": "2400 28th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0566459,
+   "latitude": 49.2454543
+ },
+ {
+   "address": "1600 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.1016096,
+   "latitude": 49.2716445
+ },
+ {
+   "address": "400 Hastings St. W., Vancouver, BC, Canada",
+   "ticketNumber": 98,
+   "longitude": -123.1109657,
+   "latitude": 49.2831488
+ },
+ {
+   "address": "5300 Culloden St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0782592,
+   "latitude": 49.2368304
+ },
+ {
+   "address": "1900 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1978,
+   "longitude": -123.1481029,
+   "latitude": 49.2678777
+ },
+ {
+   "address": "0 15th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.1741926,
+   "latitude": 49.2587576
+ },
+ {
+   "address": "800 King Edward Ave. W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.122328,
+   "latitude": 49.24904100000001
+ },
+ {
+   "address": "200 19th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1096121,
+   "latitude": 49.2536171
+ },
+ {
+   "address": "1400 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0741942,
+   "latitude": 49.2720687
+ },
+ {
+   "address": "1200 Garden Dr., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0576513,
+   "latitude": 49.2739428
+ },
+ {
+   "address": "900 Semlin Dr., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0636785,
+   "latitude": 49.2766516
+ },
+ {
+   "address": "1000 Wolfe Ave., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.1279284,
+   "latitude": 49.2523972
+ },
+ {
+   "address": "8900 Hudson St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.134759,
+   "latitude": 49.204303
+ },
+ {
+   "address": "2100 Grant St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0616611,
+   "latitude": 49.271058
+ },
+ {
+   "address": "0 Peveril Ave., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1075652,
+   "latitude": 49.2463227
+ },
+ {
+   "address": "3500 Charles St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0306958,
+   "latitude": 49.2730727
+ },
+ {
+   "address": "1600 Bayshore Dr., Vancouver, BC, Canada",
+   "ticketNumber": 215,
+   "longitude": -123.1295711,
+   "latitude": 49.29159
+ },
+ {
+   "address": "2400 1st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0568757,
+   "latitude": 49.2692512
+ },
+ {
+   "address": "1400 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 631,
+   "longitude": -123.1361332,
+   "latitude": 49.26447
+ },
+ {
+   "address": "1600 Adanac St., Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.0725378,
+   "latitude": 49.2773897
+ },
+ {
+   "address": "8300 Jellicoe St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0477198,
+   "latitude": 49.2073229
+ },
+ {
+   "address": "300 Water St., Vancouver, BC, Canada",
+   "ticketNumber": 379,
+   "longitude": -123.1090542,
+   "latitude": 49.2841708
+ },
+ {
+   "address": "0 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 344,
+   "longitude": -123.14866,
+   "latitude": 49.26376459999999
+ },
+ {
+   "address": "1900 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 166,
+   "longitude": -123.1483695,
+   "latitude": 49.2623356
+ },
+ {
+   "address": "8200 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1401615,
+   "latitude": 49.2115534
+ },
+ {
+   "address": "2200 Clark Dr., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0774825,
+   "latitude": 49.2652037
+ },
+ {
+   "address": "2400 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1603176,
+   "latitude": 49.2609807
+ },
+ {
+   "address": "0 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 212,
+   "longitude": -123.14866,
+   "latitude": 49.26376459999999
+ },
+ {
+   "address": "100 Clark Dr., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0774039,
+   "latitude": 49.2669519
+ },
+ {
+   "address": "2900 6th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0442714,
+   "latitude": 49.264768
+ },
+ {
+   "address": "1200 Davie St., Vancouver, BC, Canada",
+   "ticketNumber": 659,
+   "longitude": -123.1335956,
+   "latitude": 49.2817511
+ },
+ {
+   "address": "1100 Davie St., Vancouver, BC, Canada",
+   "ticketNumber": 851,
+   "longitude": -123.1314726,
+   "latitude": 49.2804294
+ },
+ {
+   "address": "2300 Trimble St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.2056254,
+   "latitude": 49.2660773
+ },
+ {
+   "address": "6500 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.103797,
+   "latitude": 49.22568460000001
+ },
+ {
+   "address": "1800 22nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.0678669,
+   "latitude": 49.2503014
+ },
+ {
+   "address": "100 Keefer St., Vancouver, BC, Canada",
+   "ticketNumber": 738,
+   "longitude": -123.1019683,
+   "latitude": 49.2792063
+ },
+ {
+   "address": "2500 Trafalgar St., Vancouver, BC, Canada",
+   "ticketNumber": 122,
+   "longitude": -123.1646498,
+   "latitude": 49.26402940000001
+ },
+ {
+   "address": "200 Georgia St. E., Vancouver, BC, Canada",
+   "ticketNumber": 758,
+   "longitude": -123.1142106,
+   "latitude": 49.2798949
+ },
+ {
+   "address": "2500 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 447,
+   "longitude": -123.1625299,
+   "latitude": 49.26379290000001
+ },
+ {
+   "address": "1900 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1484589,
+   "latitude": 49.2607886
+ },
+ {
+   "address": "1400 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0655858,
+   "latitude": 49.2719992
+ },
+ {
+   "address": "800 Heatley Ave., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.0896787,
+   "latitude": 49.27750229999999
+ },
+ {
+   "address": "3600 Franklin St., Vancouver, BC, Canada",
+   "ticketNumber": 46,
+   "longitude": -123.0257015,
+   "latitude": 49.2820489
+ },
+ {
+   "address": "2900 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0812122,
+   "latitude": 49.2586401
+ },
+ {
+   "address": "900 Beatty St., Vancouver, BC, Canada",
+   "ticketNumber": 330,
+   "longitude": -123.1142669,
+   "latitude": 49.2773146
+ },
+ {
+   "address": "2500 Macdonald St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1679952,
+   "latitude": 49.2643261
+ },
+ {
+   "address": "800 31st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0879039,
+   "latitude": 49.2425314
+ },
+ {
+   "address": "300 Drake St., Vancouver, BC, Canada",
+   "ticketNumber": 233,
+   "longitude": -123.1235949,
+   "latitude": 49.2733954
+ },
+ {
+   "address": "2300 Heather St., Vancouver, BC, Canada",
+   "ticketNumber": 77,
+   "longitude": -123.1198172,
+   "latitude": 49.2649135
+ },
+ {
+   "address": "100 Nanaimo St. N., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0565577,
+   "latitude": 49.2859121
+ },
+ {
+   "address": "1800 16th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0678628,
+   "latitude": 49.2562895
+ },
+ {
+   "address": "2000 37th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1516266,
+   "latitude": 49.23788039999999
+ },
+ {
+   "address": "3300 23rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.1780858,
+   "latitude": 49.2518402
+ },
+ {
+   "address": "3800 Knight St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0759756,
+   "latitude": 49.2510012
+ },
+ {
+   "address": "4900 Ross St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0815379,
+   "latitude": 49.2406957
+ },
+ {
+   "address": "1600 William St., Vancouver, BC, Canada",
+   "ticketNumber": 103,
+   "longitude": -123.0733203,
+   "latitude": 49.2739856
+ },
+ {
+   "address": "1300 51st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 86,
+   "longitude": -123.0800144,
+   "latitude": 49.2234287
+ },
+ {
+   "address": "3600 Manitoba St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1071103,
+   "latitude": 49.25217910000001
+ },
+ {
+   "address": "5200 Ross St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0821716,
+   "latitude": 49.2377496
+ },
+ {
+   "address": "200 Station St., Vancouver, BC, Canada",
+   "ticketNumber": 60,
+   "longitude": -123.0984963,
+   "latitude": 49.2752748
+ },
+ {
+   "address": "3200 Turner St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0362115,
+   "latitude": 49.27907
+ },
+ {
+   "address": "800 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.0653352,
+   "latitude": 49.2775867
+ },
+ {
+   "address": "1600 75th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1446435,
+   "latitude": 49.2052637
+ },
+ {
+   "address": "2200 Fir St., Vancouver, BC, Canada",
+   "ticketNumber": 108,
+   "longitude": -123.1407449,
+   "latitude": 49.2663664
+ },
+ {
+   "address": "4100 Heather St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1201951,
+   "latitude": 49.24890509999999
+ },
+ {
+   "address": "1500 Hornby St., Vancouver, BC, Canada",
+   "ticketNumber": 143,
+   "longitude": -123.1328279,
+   "latitude": 49.2750288
+ },
+ {
+   "address": "1300 Thurlow St., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.132255,
+   "latitude": 49.2796842
+ },
+ {
+   "address": "3300 3rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1776666,
+   "latitude": 49.2693987
+ },
+ {
+   "address": "2800 Turner St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0464861,
+   "latitude": 49.2792334
+ },
+ {
+   "address": "1800 Haro St., Vancouver, BC, Canada",
+   "ticketNumber": 138,
+   "longitude": -123.1365051,
+   "latitude": 49.29078370000001
+ },
+ {
+   "address": "800 Nelson St., Vancouver, BC, Canada",
+   "ticketNumber": 402,
+   "longitude": -123.1245924,
+   "latitude": 49.2798846
+ },
+ {
+   "address": "1500 Balsam St., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.1597132,
+   "latitude": 49.272667
+ },
+ {
+   "address": "6100 Bruce St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0693994,
+   "latitude": 49.2286371
+ },
+ {
+   "address": "2000 Arbutus St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1527928,
+   "latitude": 49.26796
+ },
+ {
+   "address": "1200 Seymour St., Vancouver, BC, Canada",
+   "ticketNumber": 709,
+   "longitude": -123.1251291,
+   "latitude": 49.2763672
+ },
+ {
+   "address": "900 6th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1241735,
+   "latitude": 49.2657922
+ },
+ {
+   "address": "7200 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0656793,
+   "latitude": 49.2188775
+ },
+ {
+   "address": "700 27th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.0896925,
+   "latitude": 49.2464856
+ },
+ {
+   "address": "1000 64th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0858073,
+   "latitude": 49.2119873
+ },
+ {
+   "address": "4300 Willow St., Vancouver, BC, Canada",
+   "ticketNumber": 110,
+   "longitude": -123.1223798,
+   "latitude": 49.2473925
+ },
+ {
+   "address": "2800 Guelph St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0947266,
+   "latitude": 49.2593915
+ },
+ {
+   "address": "1100 Georgia St. W., Vancouver, BC, Canada",
+   "ticketNumber": 1422,
+   "longitude": -123.1221322,
+   "latitude": 49.28517249999999
+ },
+ {
+   "address": "5000 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1171375,
+   "latitude": 49.24000059999999
+ },
+ {
+   "address": "3400 Laurel St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1244485,
+   "latitude": 49.2552871
+ },
+ {
+   "address": "2800 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.1683159,
+   "latitude": 49.26837099999999
+ },
+ {
+   "address": "2500 31st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1631614,
+   "latitude": 49.2439526
+ },
+ {
+   "address": "3200 Grant St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0363045,
+   "latitude": 49.2713475
+ },
+ {
+   "address": "1800 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 76,
+   "longitude": -123.1026982,
+   "latitude": 49.2691552
+ },
+ {
+   "address": "900 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 171,
+   "longitude": -123.1242468,
+   "latitude": 49.2586862
+ },
+ {
+   "address": "2100 48th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0637201,
+   "latitude": 49.2260573
+ },
+ {
+   "address": "600 Expo Boulevard, Vancouver, BC, Canada",
+   "ticketNumber": 277,
+   "longitude": -123.1076545,
+   "latitude": 49.2786279
+ },
+ {
+   "address": "2400 37th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1611931,
+   "latitude": 49.2383838
+ },
+ {
+   "address": "1600 6th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 115,
+   "longitude": -123.0715827,
+   "latitude": 49.2648123
+ },
+ {
+   "address": "1900 42nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.1496543,
+   "latitude": 49.23328739999999
+ },
+ {
+   "address": "2100 46th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1551894,
+   "latitude": 49.2298634
+ },
+ {
+   "address": "400 Hawks Ave., Vancouver, BC, Canada",
+   "ticketNumber": 118,
+   "longitude": -123.0871327,
+   "latitude": 49.2811332
+ },
+ {
+   "address": "2700 Cambridge St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0493257,
+   "latitude": 49.2867235
+ },
+ {
+   "address": "1500 Adanac St., Vancouver, BC, Canada",
+   "ticketNumber": 41,
+   "longitude": -123.0741872,
+   "latitude": 49.2776119
+ },
+ {
+   "address": "2200 5th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 121,
+   "longitude": -123.1554293,
+   "latitude": 49.2672029
+ },
+ {
+   "address": "2600 Kitchener St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0520548,
+   "latitude": 49.2722927
+ },
+ {
+   "address": "1900 35th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1566729,
+   "latitude": 49.24003339999999
+ },
+ {
+   "address": "2300 Semlin Dr., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.0639232,
+   "latitude": 49.26446379999999
+ },
+ {
+   "address": "3500 Gladstone St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0592151,
+   "latitude": 49.2519595
+ },
+ {
+   "address": "300 17th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.0984567,
+   "latitude": 49.25566569999999
+ },
+ {
+   "address": "700 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.1197729,
+   "latitude": 49.2593616
+ },
+ {
+   "address": "400 Pacific Blvd., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.108312,
+   "latitude": 49.27701829999999
+ },
+ {
+   "address": "3600 25th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0262491,
+   "latitude": 49.2479026
+ },
+ {
+   "address": "1000 Island Ave., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0710418,
+   "latitude": 49.2097309
+ },
+ {
+   "address": "5800 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 66,
+   "longitude": -123.0652824,
+   "latitude": 49.2311942
+ },
+ {
+   "address": "1500 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1387676,
+   "latitude": 49.2679598
+ },
+ {
+   "address": "2800 37th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1680844,
+   "latitude": 49.2385149
+ },
+ {
+   "address": "5300 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1850068,
+   "latitude": 49.238699
+ },
+ {
+   "address": "200 18th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1097315,
+   "latitude": 49.2547411
+ },
+ {
+   "address": "400 Princess Ave., Vancouver, BC, Canada",
+   "ticketNumber": 73,
+   "longitude": -123.0914999,
+   "latitude": 49.2811999
+ },
+ {
+   "address": "400 Abbott St., Vancouver, BC, Canada",
+   "ticketNumber": 405,
+   "longitude": -123.1072,
+   "latitude": 49.282003
+ },
+ {
+   "address": "2100 Alberta St., Vancouver, BC, Canada",
+   "ticketNumber": 67,
+   "longitude": -123.1105711,
+   "latitude": 49.2665421
+ },
+ {
+   "address": "100 43rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1164515,
+   "latitude": 49.2316665
+ },
+ {
+   "address": "500 19th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 107,
+   "longitude": -123.0938778,
+   "latitude": 49.2537847
+ },
+ {
+   "address": "3200 Fleming St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0705926,
+   "latitude": 49.25596669999999
+ },
+ {
+   "address": "300 2nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 88,
+   "longitude": -123.1114431,
+   "latitude": 49.2683171
+ },
+ {
+   "address": "5200 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.185292,
+   "latitude": 49.23950199999999
+ },
+ {
+   "address": "1100 29th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1392213,
+   "latitude": 49.24545699999999
+ },
+ {
+   "address": "5700 Lancaster St., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0417121,
+   "latitude": 49.2329251
+ },
+ {
+   "address": "4700 Commercial St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0680154,
+   "latitude": 49.2429407
+ },
+ {
+   "address": "1600 Davie St., Vancouver, BC, Canada",
+   "ticketNumber": 438,
+   "longitude": -123.1386483,
+   "latitude": 49.2852343
+ },
+ {
+   "address": "2400 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 64,
+   "longitude": -123.1837423,
+   "latitude": 49.26476659999999
+ },
+ {
+   "address": "6800 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.101172,
+   "latitude": 49.22294369999999
+ },
+ {
+   "address": "1000 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 26,
+   "longitude": -123.0744292,
+   "latitude": 49.27550069999999
+ },
+ {
+   "address": "2800 Hemlock St., Vancouver, BC, Canada",
+   "ticketNumber": 72,
+   "longitude": -123.1361991,
+   "latitude": 49.2608282
+ },
+ {
+   "address": "6300 Maple St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1508776,
+   "latitude": 49.253252
+ },
+ {
+   "address": "2000 Harrison Dr., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0660779,
+   "latitude": 49.2106356
+ },
+ {
+   "address": "2100 Cornwall Ave., Vancouver, BC, Canada",
+   "ticketNumber": 267,
+   "longitude": -123.1526112,
+   "latitude": 49.272547
+ },
+ {
+   "address": "7800 Vernon Dr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.078658,
+   "latitude": 49.27497
+ },
+ {
+   "address": "4200 Miller St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0683039,
+   "latitude": 49.24742269999999
+ },
+ {
+   "address": "5400 Elizabeth St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1116105,
+   "latitude": 49.2369768
+ },
+ {
+   "address": "3400 Sophia St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0984925,
+   "latitude": 49.2547637
+ },
+ {
+   "address": "5400 Cecil St., Vancouver, BC, Canada",
+   "ticketNumber": 332,
+   "longitude": -123.0357401,
+   "latitude": 49.2354182
+ },
+ {
+   "address": "700 Davie St., Vancouver, BC, Canada",
+   "ticketNumber": 88,
+   "longitude": -123.1264398,
+   "latitude": 49.2771689
+ },
+ {
+   "address": "3000 St. Catherines St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0850893,
+   "latitude": 49.2577371
+ },
+ {
+   "address": "3500 Yukon St., Vancouver, BC, Canada",
+   "ticketNumber": 37,
+   "longitude": -123.1126195,
+   "latitude": 49.2539083
+ },
+ {
+   "address": "2100 40th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 504,
+   "longitude": -123.1559041,
+   "latitude": 49.235437
+ },
+ {
+   "address": "200 Salsbury Dr., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0682632,
+   "latitude": 49.2815979
+ },
+ {
+   "address": "0 Taylor St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1058788,
+   "latitude": 49.2801246
+ },
+ {
+   "address": "1600 Haro St., Vancouver, BC, Canada",
+   "ticketNumber": 72,
+   "longitude": -123.1334559,
+   "latitude": 49.2887592
+ },
+ {
+   "address": "8300 Beatrice St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0675269,
+   "latitude": 49.2094108
+ },
+ {
+   "address": "2800 Pandora St., Vancouver, BC, Canada",
+   "ticketNumber": 65,
+   "longitude": -123.0466879,
+   "latitude": 49.28297509999999
+ },
+ {
+   "address": "4900 Slocan St., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.0536535,
+   "latitude": 49.2403977
+ },
+ {
+   "address": "2500 Windsor St., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.0831597,
+   "latitude": 49.26128629999999
+ },
+ {
+   "address": "1500 Haro St., Vancouver, BC, Canada",
+   "ticketNumber": 85,
+   "longitude": -123.1327618,
+   "latitude": 49.2880292
+ },
+ {
+   "address": "2000 33rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.1517798,
+   "latitude": 49.2418839
+ },
+ {
+   "address": "4200 Willow St., Vancouver, BC, Canada",
+   "ticketNumber": 126,
+   "longitude": -123.1223798,
+   "latitude": 49.2473925
+ },
+ {
+   "address": "900 19th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 39,
+   "longitude": -123.0854018,
+   "latitude": 49.25351269999999
+ },
+ {
+   "address": "3400 Lougheed Hwy., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0305437,
+   "latitude": 49.2617838
+ },
+ {
+   "address": "500 Cordova St. E., Vancouver, BC, Canada",
+   "ticketNumber": 77,
+   "longitude": -123.093273,
+   "latitude": 49.2820061
+ },
+ {
+   "address": "100 14th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 138,
+   "longitude": -123.1073108,
+   "latitude": 49.2583238
+ },
+ {
+   "address": "2400 18th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0582425,
+   "latitude": 49.2533514
+ },
+ {
+   "address": "2100 Qualicum Dr., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0641651,
+   "latitude": 49.2124075
+ },
+ {
+   "address": "1200 Cotton Dr., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0714521,
+   "latitude": 49.2739201
+ },
+ {
+   "address": "1200 Haro St., Vancouver, BC, Canada",
+   "ticketNumber": 144,
+   "longitude": -123.128095,
+   "latitude": 49.28534459999999
+ },
+ {
+   "address": "2600 Alma St., Vancouver, BC, Canada",
+   "ticketNumber": 28,
+   "longitude": -123.1853695,
+   "latitude": 49.2637236
+ },
+ {
+   "address": "2600 Alder St., Vancouver, BC, Canada",
+   "ticketNumber": 38,
+   "longitude": -123.1313949,
+   "latitude": 49.2624099
+ },
+ {
+   "address": "100 63rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1043604,
+   "latitude": 49.21313259999999
+ },
+ {
+   "address": "7600 Inverness St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0799127,
+   "latitude": 49.2155882
+ },
+ {
+   "address": "1600 Larch St., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.162124,
+   "latitude": 49.2717093
+ },
+ {
+   "address": "4000 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0967505,
+   "latitude": 49.2493721
+ },
+ {
+   "address": "2800 Laurel St., Vancouver, BC, Canada",
+   "ticketNumber": 99,
+   "longitude": -123.1253331,
+   "latitude": 49.2624258
+ },
+ {
+   "address": "3900 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1149701,
+   "latitude": 49.2503508
+ },
+ {
+   "address": "1900 7th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 33,
+   "longitude": -123.06578,
+   "latitude": 49.2639156
+ },
+ {
+   "address": "3100 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0814395,
+   "latitude": 49.256583
+ },
+ {
+   "address": "800 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 675,
+   "longitude": -123.1175264,
+   "latitude": 49.2111051
+ },
+ {
+   "address": "7000 St. George St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0948351,
+   "latitude": 49.21959469999999
+ },
+ {
+   "address": "1800 Trutch St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1756702,
+   "latitude": 49.270255
+ },
+ {
+   "address": "2000 48th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1165968,
+   "latitude": 49.2270244
+ },
+ {
+   "address": "1500 King Edward Ave. W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1402856,
+   "latitude": 49.2491344
+ },
+ {
+   "address": "300 29th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0405753,
+   "latitude": 49.2445379
+ },
+ {
+   "address": "4800 Dumfries St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0736072,
+   "latitude": 49.24151819999999
+ },
+ {
+   "address": "1900 Balsam St., Vancouver, BC, Canada",
+   "ticketNumber": 174,
+   "longitude": -123.1598686,
+   "latitude": 49.26914300000001
+ },
+ {
+   "address": "1300 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 223,
+   "longitude": -123.1338196,
+   "latitude": 49.26425529999999
+ },
+ {
+   "address": "5100 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 31,
+   "longitude": -123.0651467,
+   "latitude": 49.2380963
+ },
+ {
+   "address": "2600 22nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.0521148,
+   "latitude": 49.250402
+ },
+ {
+   "address": "2500 Burrard St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1457383,
+   "latitude": 49.2640854
+ },
+ {
+   "address": "700 6th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0887735,
+   "latitude": 49.2650167
+ },
+ {
+   "address": "5900 Toderick St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0288799,
+   "latitude": 49.2302381
+ },
+ {
+   "address": "1900 34th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.0670238,
+   "latitude": 49.2390486
+ },
+ {
+   "address": "2600 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 89,
+   "longitude": -123.0519287,
+   "latitude": 49.238948
+ },
+ {
+   "address": "1900 33rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0669436,
+   "latitude": 49.23988749999999
+ },
+ {
+   "address": "7200 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1058133,
+   "latitude": 49.21934539999999
+ },
+ {
+   "address": "400 2nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 108,
+   "longitude": -123.1130225,
+   "latitude": 49.2674827
+ },
+ {
+   "address": "2000 Cypress St, Vancouver, BC, Canada",
+   "ticketNumber": 21,
+   "longitude": -123.147973,
+   "latitude": 49.268068
+ },
+ {
+   "address": "1500 Maple St., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.1502167,
+   "latitude": 49.2722193
+ },
+ {
+   "address": "1100 Howe St., Vancouver, BC, Canada",
+   "ticketNumber": 489,
+   "longitude": -123.1256759,
+   "latitude": 49.2787993
+ },
+ {
+   "address": "6000 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0656111,
+   "latitude": 49.2294567
+ },
+ {
+   "address": "3700 Inverness St., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.0798809,
+   "latitude": 49.2520311
+ },
+ {
+   "address": "500 25th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1824053,
+   "latitude": 49.3346083
+ },
+ {
+   "address": "100 Columbia St., Vancouver, BC, Canada",
+   "ticketNumber": 153,
+   "longitude": -123.1017916,
+   "latitude": 49.2835083
+ },
+ {
+   "address": "500 Carrall St., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.1041761,
+   "latitude": 49.2807168
+ },
+ {
+   "address": "1000 Expo Boulevard, Vancouver, BC, Canada",
+   "ticketNumber": 109,
+   "longitude": -123.1159185,
+   "latitude": 49.2749184
+ },
+ {
+   "address": "7100 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.101491,
+   "latitude": 49.2200988
+ },
+ {
+   "address": "3400 4th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1794023,
+   "latitude": 49.2680991
+ },
+ {
+   "address": "4300 Locarno Cr., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.2026585,
+   "latitude": 49.2689313
+ },
+ {
+   "address": "0 43rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1164515,
+   "latitude": 49.2316665
+ },
+ {
+   "address": "600 51st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 18,
+   "longitude": -123.092525,
+   "latitude": 49.2233716
+ },
+ {
+   "address": "3400 Euclid Ave., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.0336615,
+   "latitude": 49.2364648
+ },
+ {
+   "address": "3100 MacKenzie St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1703409,
+   "latitude": 49.2587438
+ },
+ {
+   "address": "900 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.1249913,
+   "latitude": 49.2603089
+ },
+ {
+   "address": "1100 Nootka St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0410904,
+   "latitude": 49.2747253
+ },
+ {
+   "address": "1300 Continental St., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.1287433,
+   "latitude": 49.2761639
+ },
+ {
+   "address": "700 33rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 34,
+   "longitude": -123.0889789,
+   "latitude": 49.2401057
+ },
+ {
+   "address": "1400 Carolina St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0909787,
+   "latitude": 49.26573699999999
+ },
+ {
+   "address": "1800 Macdonald St., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.1679872,
+   "latitude": 49.2699654
+ },
+ {
+   "address": "2900 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.1701154,
+   "latitude": 49.2683708
+ },
+ {
+   "address": "3700 Hudson St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1342341,
+   "latitude": 49.2527895
+ },
+ {
+   "address": "4500 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.2092072,
+   "latitude": 49.261999
+ },
+ {
+   "address": "7700 Argyle St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0720081,
+   "latitude": 49.2145859
+ },
+ {
+   "address": "1900 Creelman Ave., Vancouver, BC, Canada",
+   "ticketNumber": 121,
+   "longitude": -123.1480907,
+   "latitude": 49.2743124
+ },
+ {
+   "address": "3600 Fraser St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0896639,
+   "latitude": 49.2529069
+ },
+ {
+   "address": "7800 Columbia St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.1127028,
+   "latitude": 49.2142805
+ },
+ {
+   "address": "6900 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1039304,
+   "latitude": 49.2219986
+ },
+ {
+   "address": "2400 Penticton St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0521666,
+   "latitude": 49.2629792
+ },
+ {
+   "address": "3300 6th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1779349,
+   "latitude": 49.2665599
+ },
+ {
+   "address": "3200 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0963534,
+   "latitude": 49.256659
+ },
+ {
+   "address": "400 Seymour St., Vancouver, BC, Canada",
+   "ticketNumber": 305,
+   "longitude": -123.1134311,
+   "latitude": 49.2841102
+ },
+ {
+   "address": "600 23rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1181542,
+   "latitude": 49.2504554
+ },
+ {
+   "address": "8000 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 57,
+   "longitude": -123.1401304,
+   "latitude": 49.2130193
+ },
+ {
+   "address": "3700 Pt. Grey Rd., Vancouver, BC, Canada",
+   "ticketNumber": 77,
+   "longitude": -123.1854463,
+   "latitude": 49.2721915
+ },
+ {
+   "address": "2000 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 110,
+   "longitude": -123.1504668,
+   "latitude": 49.2623562
+ },
+ {
+   "address": "1300 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0743345,
+   "latitude": 49.272726
+ },
+ {
+   "address": "400 Powell St., Vancouver, BC, Canada",
+   "ticketNumber": 176,
+   "longitude": -123.094347,
+   "latitude": 49.28264
+ },
+ {
+   "address": "3000 17th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0413961,
+   "latitude": 49.25455789999999
+ },
+ {
+   "address": "1600 Franklin St., Vancouver, BC, Canada",
+   "ticketNumber": 98,
+   "longitude": -123.0723202,
+   "latitude": 49.2820197
+ },
+ {
+   "address": "100 7th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.1027524,
+   "latitude": 49.2645654
+ },
+ {
+   "address": "2400 Hemlock St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.1357989,
+   "latitude": 49.2655754
+ },
+ {
+   "address": "3100 Montcalm St, Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.1300994,
+   "latitude": 49.2572774
+ },
+ {
+   "address": "4400 Sophia St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0983184,
+   "latitude": 49.2453102
+ },
+ {
+   "address": "2500 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.0812267,
+   "latitude": 49.2621652
+ },
+ {
+   "address": "300 Seymour St., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.1118804,
+   "latitude": 49.2852834
+ },
+ {
+   "address": "800 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0739395,
+   "latitude": 49.2773455
+ },
+ {
+   "address": "1200 7th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 61,
+   "longitude": -123.0793351,
+   "latitude": 49.2640399
+ },
+ {
+   "address": "1300 7th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.0775178,
+   "latitude": 49.26422410000001
+ },
+ {
+   "address": "4600 7th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.2118389,
+   "latitude": 49.2662486
+ },
+ {
+   "address": "2100 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 81,
+   "longitude": -123.1531251,
+   "latitude": 49.2645928
+ },
+ {
+   "address": "600 Georgia St. E., Vancouver, BC, Canada",
+   "ticketNumber": 70,
+   "longitude": -123.1173078,
+   "latitude": 49.2819458
+ },
+ {
+   "address": "1600 Station St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0980723,
+   "latitude": 49.2707391
+ },
+ {
+   "address": "5600 College St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0441657,
+   "latitude": 49.2342
+ },
+ {
+   "address": "2000 E. Kent Ave. S., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0661501,
+   "latitude": 49.2072169
+ },
+ {
+   "address": "1400 Frances St., Vancouver, BC, Canada",
+   "ticketNumber": 78,
+   "longitude": -123.0754487,
+   "latitude": 49.2792752
+ },
+ {
+   "address": "2800 14th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.0466937,
+   "latitude": 49.2570035
+ },
+ {
+   "address": "2500 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 56,
+   "longitude": -123.0548027,
+   "latitude": 49.24009210000001
+ },
+ {
+   "address": "1400 Parker St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0756546,
+   "latitude": 49.2756441
+ },
+ {
+   "address": "500 Slocan St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.049322,
+   "latitude": 49.2802123
+ },
+ {
+   "address": "6200 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 41,
+   "longitude": -123.1159208,
+   "latitude": 49.22872040000001
+ },
+ {
+   "address": "500 32nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1189028,
+   "latitude": 49.241979
+ },
+ {
+   "address": "2400 Trutch St., Vancouver, BC, Canada",
+   "ticketNumber": 176,
+   "longitude": -123.1758727,
+   "latitude": 49.2650776
+ },
+ {
+   "address": "3300 Columbia St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.1022542,
+   "latitude": 49.2816335
+ },
+ {
+   "address": "2400 Manitoba St., Vancouver, BC, Canada",
+   "ticketNumber": 143,
+   "longitude": -123.1065686,
+   "latitude": 49.263537
+ },
+ {
+   "address": "5900 Boulevard E., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.1207375,
+   "latitude": 49.2827291
+ },
+ {
+   "address": "1400 Lillooet St., Vancouver, BC, Canada",
+   "ticketNumber": 49,
+   "longitude": -123.0388997,
+   "latitude": 49.27228239999999
+ },
+ {
+   "address": "4500 Cariboo St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0273914,
+   "latitude": 49.2442092
+ },
+ {
+   "address": "1800 37th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1467784,
+   "latitude": 49.238172
+ },
+ {
+   "address": "3000 Kitchener St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.041442,
+   "latitude": 49.2722783
+ },
+ {
+   "address": "900 Station St., Vancouver, BC, Canada",
+   "ticketNumber": 137,
+   "longitude": -123.0980538,
+   "latitude": 49.272507
+ },
+ {
+   "address": "400 Alexander St., Vancouver, BC, Canada",
+   "ticketNumber": 219,
+   "longitude": -123.095551,
+   "latitude": 49.2838319
+ },
+ {
+   "address": "700 Venables St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.081523,
+   "latitude": 49.2762714
+ },
+ {
+   "address": "200 17th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 143,
+   "longitude": -123.1011881,
+   "latitude": 49.255526
+ },
+ {
+   "address": "200 23rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 289,
+   "longitude": -123.0684496,
+   "latitude": 49.3305908
+ },
+ {
+   "address": "300 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 58,
+   "longitude": -123.097801,
+   "latitude": 49.2610574
+ },
+ {
+   "address": "300 Union St., Vancouver, BC, Canada",
+   "ticketNumber": 187,
+   "longitude": -123.0968681,
+   "latitude": 49.277404
+ },
+ {
+   "address": "400 5th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1128574,
+   "latitude": 49.2666366
+ },
+ {
+   "address": "400 Heatley Ave., Vancouver, BC, Canada",
+   "ticketNumber": 89,
+   "longitude": -123.0893127,
+   "latitude": 49.2805158
+ },
+ {
+   "address": "1800 7th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 118,
+   "longitude": -123.0677902,
+   "latitude": 49.263963
+ },
+ {
+   "address": "200 14th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 60,
+   "longitude": -123.1097177,
+   "latitude": 49.2584481
+ },
+ {
+   "address": "300 Powell St., Vancouver, BC, Canada",
+   "ticketNumber": 285,
+   "longitude": -123.0974085,
+   "latitude": 49.282881
+ },
+ {
+   "address": "3800 Penticton St., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.052242,
+   "latitude": 49.25069
+ },
+ {
+   "address": "900 Union St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0847722,
+   "latitude": 49.2772794
+ },
+ {
+   "address": "600 24th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 42,
+   "longitude": -123.1183864,
+   "latitude": 49.25005890000001
+ },
+ {
+   "address": "700 Pacific Blvd., Vancouver, BC, Canada",
+   "ticketNumber": 121,
+   "longitude": -123.1085528,
+   "latitude": 49.2769513
+ },
+ {
+   "address": "2900 Grant St., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.0439691,
+   "latitude": 49.2712146
+ },
+ {
+   "address": "800 28th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 75,
+   "longitude": -123.1237691,
+   "latitude": 49.24621759999999
+ },
+ {
+   "address": "1300 Hastings St. W., Vancouver, BC, Canada",
+   "ticketNumber": 351,
+   "longitude": -123.1252365,
+   "latitude": 49.2895364
+ },
+ {
+   "address": "2000 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 69,
+   "longitude": -123.0653728,
+   "latitude": 49.2450779
+ },
+ {
+   "address": "200 Commercial Dr., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.0703669,
+   "latitude": 49.2830933
+ },
+ {
+   "address": "300 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 58,
+   "longitude": -123.1111912,
+   "latitude": 49.2591689
+ },
+ {
+   "address": "300 50th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0995072,
+   "latitude": 49.2244488
+ },
+ {
+   "address": "700 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0739397,
+   "latitude": 49.2773455
+ },
+ {
+   "address": "7000 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0976706,
+   "latitude": 49.2209649
+ },
+ {
+   "address": "5800 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1391907,
+   "latitude": 49.2333547
+ },
+ {
+   "address": "700 26th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 44,
+   "longitude": -123.0721468,
+   "latitude": 49.2478351
+ },
+ {
+   "address": "600 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 132,
+   "longitude": -123.0997373,
+   "latitude": 49.2794823
+ },
+ {
+   "address": "2100 Bayswater St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1711111,
+   "latitude": 49.2675354
+ },
+ {
+   "address": "1800 Trafalgar St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.1641746,
+   "latitude": 49.2698694
+ },
+ {
+   "address": "400 53rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 73,
+   "longitude": -123.0976068,
+   "latitude": 49.221851
+ },
+ {
+   "address": "1800 36th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0684218,
+   "latitude": 49.2373014
+ },
+ {
+   "address": "3100 Carolina St., Vancouver, BC, Canada",
+   "ticketNumber": 26,
+   "longitude": -123.0916754,
+   "latitude": 49.2562462
+ },
+ {
+   "address": "800 Pender St. W., Vancouver, BC, Canada",
+   "ticketNumber": 73,
+   "longitude": -123.1164446,
+   "latitude": 49.28526189999999
+ },
+ {
+   "address": "3700 Carolina St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0920269,
+   "latitude": 49.2515779
+ },
+ {
+   "address": "5200 Aberdeen St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0268963,
+   "latitude": 49.2373768
+ },
+ {
+   "address": "2300 Harrison Dr., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.059839,
+   "latitude": 49.20843499999999
+ },
+ {
+   "address": "2100 Fir St., Vancouver, BC, Canada",
+   "ticketNumber": 27,
+   "longitude": -123.1409034,
+   "latitude": 49.2668975
+ },
+ {
+   "address": "2700 39th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1654408,
+   "latitude": 49.23638800000001
+ },
+ {
+   "address": "4700 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.184887,
+   "latitude": 49.2441231
+ },
+ {
+   "address": "3700 28th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.186739,
+   "latitude": 49.24712
+ },
+ {
+   "address": "1100 11th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 89,
+   "longitude": -123.1290391,
+   "latitude": 49.2615699
+ },
+ {
+   "address": "1600 41st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.141483,
+   "latitude": 49.2341823
+ },
+ {
+   "address": "1100 Nicola St., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.1358913,
+   "latitude": 49.2855218
+ },
+ {
+   "address": "1200 Lamey's Mill Rd., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.1330377,
+   "latitude": 49.266918
+ },
+ {
+   "address": "3400 Fraser St., Vancouver, BC, Canada",
+   "ticketNumber": 42,
+   "longitude": -123.0899302,
+   "latitude": 49.254579
+ },
+ {
+   "address": "1600 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.0712999,
+   "latitude": 49.2479981
+ },
+ {
+   "address": "1600 14th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0736948,
+   "latitude": 49.257787
+ },
+ {
+   "address": "3200 3rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.1759193,
+   "latitude": 49.26920510000001
+ },
+ {
+   "address": "300 Garden Dr., Vancouver, BC, Canada",
+   "ticketNumber": 201,
+   "longitude": -123.0578206,
+   "latitude": 49.2820439
+ },
+ {
+   "address": "2100 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.075181,
+   "latitude": 49.2657604
+ },
+ {
+   "address": "3300 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.0660147,
+   "latitude": 49.2568665
+ },
+ {
+   "address": "2400 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 34,
+   "longitude": -123.0560681,
+   "latitude": 49.24042799999999
+ },
+ {
+   "address": "8700 Yukon St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.11529,
+   "latitude": 49.206435
+ },
+ {
+   "address": "3600 28th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.185222,
+   "latitude": 49.247117
+ },
+ {
+   "address": "3400 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 18,
+   "longitude": -123.1798446,
+   "latitude": 49.2642758
+ },
+ {
+   "address": "4500 Reid St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0355173,
+   "latitude": 49.2442565
+ },
+ {
+   "address": "2500 24th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.0581032,
+   "latitude": 49.2486409
+ },
+ {
+   "address": "1500 Thornton St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0930285,
+   "latitude": 49.2725013
+ },
+ {
+   "address": "900 Odlum Dr., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0756532,
+   "latitude": 49.2765299
+ },
+ {
+   "address": "3600 27th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.185224,
+   "latitude": 49.248084
+ },
+ {
+   "address": "2100 Cypress St, Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.1479939,
+   "latitude": 49.2672535
+ },
+ {
+   "address": "200 7th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 76,
+   "longitude": -123.1095115,
+   "latitude": 49.2646435
+ },
+ {
+   "address": "1500 58th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.1406071,
+   "latitude": 49.218311
+ },
+ {
+   "address": "1500 Franklin St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0742249,
+   "latitude": 49.2822462
+ },
+ {
+   "address": "1700 Grant St., Vancouver, BC, Canada",
+   "ticketNumber": 148,
+   "longitude": -123.0691318,
+   "latitude": 49.2710412
+ },
+ {
+   "address": "3200 17th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0365179,
+   "latitude": 49.2547473
+ },
+ {
+   "address": "1000 18th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0832627,
+   "latitude": 49.2543105
+ },
+ {
+   "address": "1800 Columbia St., Vancouver, BC, Canada",
+   "ticketNumber": 64,
+   "longitude": -123.109468,
+   "latitude": 49.2692758
+ },
+ {
+   "address": "2900 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.0961502,
+   "latitude": 49.25893019999999
+ },
+ {
+   "address": "0 3rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 126,
+   "longitude": -123.102749,
+   "latitude": 49.2682659
+ },
+ {
+   "address": "200 Alexander St., Vancouver, BC, Canada",
+   "ticketNumber": 313,
+   "longitude": -123.0995227,
+   "latitude": 49.2840887
+ },
+ {
+   "address": "1200 Bidwell St., Vancouver, BC, Canada",
+   "ticketNumber": 249,
+   "longitude": -123.1404907,
+   "latitude": 49.2859259
+ },
+ {
+   "address": "3100 Prince Albert St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0872548,
+   "latitude": 49.25674739999999
+ },
+ {
+   "address": "2400 6th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.1599628,
+   "latitude": 49.2665489
+ },
+ {
+   "address": "4300 Cartier St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1367574,
+   "latitude": 49.247388
+ },
+ {
+   "address": "600 Beatty St., Vancouver, BC, Canada",
+   "ticketNumber": 93,
+   "longitude": -123.1105849,
+   "latitude": 49.2798502
+ },
+ {
+   "address": "4400 Atlin St., Vancouver, BC, Canada",
+   "ticketNumber": 105,
+   "longitude": -123.0455512,
+   "latitude": 49.2452407
+ },
+ {
+   "address": "1600 Cypress St, Vancouver, BC, Canada",
+   "ticketNumber": 120,
+   "longitude": -123.1478339,
+   "latitude": 49.2715878
+ },
+ {
+   "address": "1800 Island Ave., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0692384,
+   "latitude": 49.2092287
+ },
+ {
+   "address": "7000 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.103962,
+   "latitude": 49.2211092
+ },
+ {
+   "address": "3000 Prince Albert St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0872548,
+   "latitude": 49.25674739999999
+ },
+ {
+   "address": "4500 Angus Dr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1454234,
+   "latitude": 49.2455387
+ },
+ {
+   "address": "1800 7th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 109,
+   "longitude": -123.1459508,
+   "latitude": 49.2654219
+ },
+ {
+   "address": "1800 Venables St., Vancouver, BC, Canada",
+   "ticketNumber": 65,
+   "longitude": -123.067716,
+   "latitude": 49.2764382
+ },
+ {
+   "address": "1600 28th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1270401,
+   "latitude": 49.2459668
+ },
+ {
+   "address": "2500 28th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0542516,
+   "latitude": 49.2454501
+ },
+ {
+   "address": "2400 Trafalgar St., Vancouver, BC, Canada",
+   "ticketNumber": 108,
+   "longitude": -123.1644554,
+   "latitude": 49.2647973
+ },
+ {
+   "address": "1100 Balfour Ave., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1298566,
+   "latitude": 49.2520131
+ },
+ {
+   "address": "1500 Nanton Ave., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1393881,
+   "latitude": 49.2473981
+ },
+ {
+   "address": "2400 Blenheim St., Vancouver, BC, Canada",
+   "ticketNumber": 108,
+   "longitude": -123.1776118,
+   "latitude": 49.26501649999999
+ },
+ {
+   "address": "4600 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1115408,
+   "latitude": 49.2387745
+ },
+ {
+   "address": "1500 29th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1392213,
+   "latitude": 49.24545699999999
+ },
+ {
+   "address": "2300 Spruce St., Vancouver, BC, Canada",
+   "ticketNumber": 50,
+   "longitude": -123.1287342,
+   "latitude": 49.26507609999999
+ },
+ {
+   "address": "1200 15th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 33,
+   "longitude": -123.1316665,
+   "latitude": 49.25763449999999
+ },
+ {
+   "address": "2600 Columbia St., Vancouver, BC, Canada",
+   "ticketNumber": 37,
+   "longitude": -123.1091984,
+   "latitude": 49.2619571
+ },
+ {
+   "address": "8100 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1401456,
+   "latitude": 49.2120145
+ },
+ {
+   "address": "4700 Earles St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0441378,
+   "latitude": 49.24211529999999
+ },
+ {
+   "address": "4200 Sophia St., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.0988049,
+   "latitude": 49.24701
+ },
+ {
+   "address": "1600 Beach Ave., Vancouver, BC, Canada",
+   "ticketNumber": 151,
+   "longitude": -123.1413239,
+   "latitude": 49.2840517
+ },
+ {
+   "address": "1300 Balfour Ave., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1344428,
+   "latitude": 49.2518939
+ },
+ {
+   "address": "1300 Lamey's Mill Rd., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1330271,
+   "latitude": 49.2669149
+ },
+ {
+   "address": "3700 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.185162,
+   "latitude": 49.25376199999999
+ },
+ {
+   "address": "1400 Balfour Ave., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1366952,
+   "latitude": 49.2519862
+ },
+ {
+   "address": "3600 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 96,
+   "longitude": -123.0818194,
+   "latitude": 49.252239
+ },
+ {
+   "address": "4400 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.118468,
+   "latitude": 49.2479947
+ },
+ {
+   "address": "1400 Crescent, The, Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.136497,
+   "latitude": 49.25489169999999
+ },
+ {
+   "address": "5500 Gladstone St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0621045,
+   "latitude": 49.2349043
+ },
+ {
+   "address": "3500 45th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0289162,
+   "latitude": 49.2292487
+ },
+ {
+   "address": "1800 15th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.0678368,
+   "latitude": 49.2568195
+ },
+ {
+   "address": "1500 26th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0856723,
+   "latitude": 49.3137325
+ },
+ {
+   "address": "700 Pender St. E., Vancouver, BC, Canada",
+   "ticketNumber": 90,
+   "longitude": -123.0893623,
+   "latitude": 49.27992889999999
+ },
+ {
+   "address": "1800 Kitchener St., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.06721,
+   "latitude": 49.2721251
+ },
+ {
+   "address": "1400 57th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.1377546,
+   "latitude": 49.2193221
+ },
+ {
+   "address": "4800 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 35,
+   "longitude": -123.0649709,
+   "latitude": 49.2414844
+ },
+ {
+   "address": "5000 St. Catherines St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0865894,
+   "latitude": 49.2393187
+ },
+ {
+   "address": "1500 61st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1436426,
+   "latitude": 49.2157265
+ },
+ {
+   "address": "4700 Arbutus St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1529943,
+   "latitude": 49.24368990000001
+ },
+ {
+   "address": "3400 Welwyn St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0690161,
+   "latitude": 49.2540224
+ },
+ {
+   "address": "5600 Gladstone St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0621175,
+   "latitude": 49.23389710000001
+ },
+ {
+   "address": "2400 Brunswick St., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.0969848,
+   "latitude": 49.2640983
+ },
+ {
+   "address": "2300 Boundary Rd., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0228957,
+   "latitude": 49.2640813
+ },
+ {
+   "address": "2800 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.1149311,
+   "latitude": 49.2603662
+ },
+ {
+   "address": "1400 13th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.1362388,
+   "latitude": 49.25979299999999
+ },
+ {
+   "address": "3200 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0660286,
+   "latitude": 49.2565779
+ },
+ {
+   "address": "3300 38th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1786922,
+   "latitude": 49.2375831
+ },
+ {
+   "address": "1800 Trimble St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.2057827,
+   "latitude": 49.2713056
+ },
+ {
+   "address": "2700 Watson St., Vancouver, BC, Canada",
+   "ticketNumber": 42,
+   "longitude": -123.100376,
+   "latitude": 49.2611158
+ },
+ {
+   "address": "1400 59th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1376686,
+   "latitude": 49.21709569999999
+ },
+ {
+   "address": "1400 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1293623,
+   "latitude": 49.2741625
+ },
+ {
+   "address": "400 49th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 38,
+   "longitude": -123.1143794,
+   "latitude": 49.2260591
+ },
+ {
+   "address": "8400 Heather St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1239374,
+   "latitude": 49.2099157
+ },
+ {
+   "address": "1200 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 76,
+   "longitude": -123.1315789,
+   "latitude": 49.260441
+ },
+ {
+   "address": "3600 26th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0543009,
+   "latitude": 49.24708880000001
+ },
+ {
+   "address": "3300 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 40,
+   "longitude": -123.1848539,
+   "latitude": 49.2572339
+ },
+ {
+   "address": "3000 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1263982,
+   "latitude": 49.2587173
+ },
+ {
+   "address": "2300 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 27,
+   "longitude": -123.1045993,
+   "latitude": 49.2643599
+ },
+ {
+   "address": "5600 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1053974,
+   "latitude": 49.2343527
+ },
+ {
+   "address": "5300 Taunton St., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.038322,
+   "latitude": 49.2364301
+ },
+ {
+   "address": "7300 Knight St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0769725,
+   "latitude": 49.2180563
+ },
+ {
+   "address": "2900 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 21,
+   "longitude": -123.0659644,
+   "latitude": 49.2586267
+ },
+ {
+   "address": "5000 Payne St., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.0291146,
+   "latitude": 49.2396633
+ },
+ {
+   "address": "1900 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.183636,
+   "latitude": 49.2694927
+ },
+ {
+   "address": "100 Walter Hardwick Ave., Vancouver, BC, Canada",
+   "ticketNumber": 45,
+   "longitude": -123.1066674,
+   "latitude": 49.2709381
+ },
+ {
+   "address": "1600 Frances St., Vancouver, BC, Canada",
+   "ticketNumber": 158,
+   "longitude": -123.0727572,
+   "latitude": 49.2794191
+ },
+ {
+   "address": "400 Nelson St., Vancouver, BC, Canada",
+   "ticketNumber": 106,
+   "longitude": -123.1203563,
+   "latitude": 49.27720189999999
+ },
+ {
+   "address": "600 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1116124,
+   "latitude": 49.2803968
+ },
+ {
+   "address": "400 55th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.0976972,
+   "latitude": 49.220077
+ },
+ {
+   "address": "6300 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 85,
+   "longitude": -123.1159413,
+   "latitude": 49.2278197
+ },
+ {
+   "address": "400 60th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0978447,
+   "latitude": 49.2157683
+ },
+ {
+   "address": "4000 35th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1936958,
+   "latitude": 49.2405165
+ },
+ {
+   "address": "2400 Pender St. E., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.128813,
+   "latitude": 49.2898219
+ },
+ {
+   "address": "1000 42nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1285809,
+   "latitude": 49.2328446
+ },
+ {
+   "address": "3500 Copley St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0572828,
+   "latitude": 49.25170490000001
+ },
+ {
+   "address": "300 Pender St. W., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.1112717,
+   "latitude": 49.2821722
+ },
+ {
+   "address": "3300 Penticton St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0521834,
+   "latitude": 49.25654609999999
+ },
+ {
+   "address": "200 32nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.1000522,
+   "latitude": 49.2420896
+ },
+ {
+   "address": "7500 St. George St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0941531,
+   "latitude": 49.2161357
+ },
+ {
+   "address": "1600 Marine Dr. S.W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1447272,
+   "latitude": 49.2084662
+ },
+ {
+   "address": "4700 Joyce St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0276778,
+   "latitude": 49.2425898
+ },
+ {
+   "address": "1400 Howe St., Vancouver, BC, Canada",
+   "ticketNumber": 58,
+   "longitude": -123.1304439,
+   "latitude": 49.2756395
+ },
+ {
+   "address": "3300 Wellington Ave., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0361872,
+   "latitude": 49.2424111
+ },
+ {
+   "address": "0 6th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 100,
+   "longitude": -123.1143376,
+   "latitude": 49.26587689999999
+ },
+ {
+   "address": "5700 Boulevard W., Vancouver, BC, Canada",
+   "ticketNumber": 112,
+   "longitude": -123.1966917,
+   "latitude": 49.23493670000001
+ },
+ {
+   "address": "4400 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.2062015,
+   "latitude": 49.261038
+ },
+ {
+   "address": "400 38th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.09708,
+   "latitude": 49.2362481
+ },
+ {
+   "address": "2400 Yukon St., Vancouver, BC, Canada",
+   "ticketNumber": 102,
+   "longitude": -123.1129063,
+   "latitude": 49.26393789999999
+ },
+ {
+   "address": "2700 51st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0524394,
+   "latitude": 49.2227401
+ },
+ {
+   "address": "400 Hornby St., Vancouver, BC, Canada",
+   "ticketNumber": 57,
+   "longitude": -123.1163437,
+   "latitude": 49.2862466
+ },
+ {
+   "address": "300 36th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1002169,
+   "latitude": 49.238112
+ },
+ {
+   "address": "4100 Miller St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0683014,
+   "latitude": 49.248382
+ },
+ {
+   "address": "3800 11th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1878325,
+   "latitude": 49.2625946
+ },
+ {
+   "address": "2300 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 122,
+   "longitude": -123.1380919,
+   "latitude": 49.265195
+ },
+ {
+   "address": "300 Terminal Ave., Vancouver, BC, Canada",
+   "ticketNumber": 81,
+   "longitude": -123.0981945,
+   "latitude": 49.2721952
+ },
+ {
+   "address": "4200 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.2000143,
+   "latitude": 49.2651724
+ },
+ {
+   "address": "1500 16th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.1393053,
+   "latitude": 49.25684769999999
+ },
+ {
+   "address": "5700 Willow St., Vancouver, BC, Canada",
+   "ticketNumber": 167,
+   "longitude": -123.1238635,
+   "latitude": 49.2338615
+ },
+ {
+   "address": "500 Abbott St., Vancouver, BC, Canada",
+   "ticketNumber": 1551,
+   "longitude": -123.1075616,
+   "latitude": 49.2810977
+ },
+ {
+   "address": "1400 15th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 120,
+   "longitude": -123.1365443,
+   "latitude": 49.2579546
+ },
+ {
+   "address": "1500 13th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 63,
+   "longitude": -123.0730943,
+   "latitude": 49.2584961
+ },
+ {
+   "address": "4700 Fairmont St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.04147,
+   "latitude": 49.242058
+ },
+ {
+   "address": "300 33rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0990824,
+   "latitude": 49.2402952
+ },
+ {
+   "address": "4100 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0967623,
+   "latitude": 49.2487642
+ },
+ {
+   "address": "4300 Hudson St., Vancouver, BC, Canada",
+   "ticketNumber": 111,
+   "longitude": -123.1344356,
+   "latitude": 49.2473314
+ },
+ {
+   "address": "3700 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 220,
+   "longitude": -123.1858885,
+   "latitude": 49.2634805
+ },
+ {
+   "address": "500 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0653629,
+   "latitude": 49.28010459999999
+ },
+ {
+   "address": "4200 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 48,
+   "longitude": -123.1849385,
+   "latitude": 49.2488726
+ },
+ {
+   "address": "1500 Frances St., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.0740437,
+   "latitude": 49.2794434
+ },
+ {
+   "address": "900 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 80,
+   "longitude": -123.0998144,
+   "latitude": 49.275061
+ },
+ {
+   "address": "300 National Ave., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0985346,
+   "latitude": 49.2748946
+ },
+ {
+   "address": "1500 5th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 57,
+   "longitude": -123.1381402,
+   "latitude": 49.2666021
+ },
+ {
+   "address": "2700 5th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1665926,
+   "latitude": 49.267227
+ },
+ {
+   "address": "2000 Barclay St., Vancouver, BC, Canada",
+   "ticketNumber": 101,
+   "longitude": -123.1417745,
+   "latitude": 49.2928366
+ },
+ {
+   "address": "5100 Sophia St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0990718,
+   "latitude": 49.2386949
+ },
+ {
+   "address": "400 34th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0968126,
+   "latitude": 49.2394973
+ },
+ {
+   "address": "4300 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 53,
+   "longitude": -123.1030871,
+   "latitude": 49.2472387
+ },
+ {
+   "address": "4500 Walden St., Vancouver, BC, Canada",
+   "ticketNumber": 33,
+   "longitude": -123.0999211,
+   "latitude": 49.2444433
+ },
+ {
+   "address": "2900 Watson St., Vancouver, BC, Canada",
+   "ticketNumber": 307,
+   "longitude": -123.1002918,
+   "latitude": 49.25926459999999
+ },
+ {
+   "address": "4600 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 95,
+   "longitude": -123.1280936,
+   "latitude": 49.2445175
+ },
+ {
+   "address": "6400 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 49,
+   "longitude": -123.1015766,
+   "latitude": 49.2266523
+ },
+ {
+   "address": "1700 Cypress St, Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1478675,
+   "latitude": 49.2706989
+ },
+ {
+   "address": "600 Hastings St. W., Vancouver, BC, Canada",
+   "ticketNumber": 217,
+   "longitude": -123.1128815,
+   "latitude": 49.2846693
+ },
+ {
+   "address": "1500 7th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 573,
+   "longitude": -123.1385412,
+   "latitude": 49.2653553
+ },
+ {
+   "address": "600 Jervis St., Vancouver, BC, Canada",
+   "ticketNumber": 122,
+   "longitude": -123.1251088,
+   "latitude": 49.2888366
+ },
+ {
+   "address": "0 32nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 41,
+   "longitude": -123.0879389,
+   "latitude": 49.2416856
+ },
+ {
+   "address": "8500 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1299807,
+   "latitude": 49.2092531
+ },
+ {
+   "address": "1900 Turner St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0647152,
+   "latitude": 49.278936
+ },
+ {
+   "address": "1800 York Ave., Vancouver, BC, Canada",
+   "ticketNumber": 209,
+   "longitude": -123.1464166,
+   "latitude": 49.2715615
+ },
+ {
+   "address": "5000 Prince Albert St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0877176,
+   "latitude": 49.2393554
+ },
+ {
+   "address": "2000 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 33,
+   "longitude": -123.1510338,
+   "latitude": 49.2608105
+ },
+ {
+   "address": "3200 14th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0366184,
+   "latitude": 49.2572049
+ },
+ {
+   "address": "1900 Columbia St., Vancouver, BC, Canada",
+   "ticketNumber": 61,
+   "longitude": -123.1093065,
+   "latitude": 49.2682911
+ },
+ {
+   "address": "1100 Hastings St. W., Vancouver, BC, Canada",
+   "ticketNumber": 629,
+   "longitude": -123.119771,
+   "latitude": 49.287947
+ },
+ {
+   "address": "200 28th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 168,
+   "longitude": -123.0971917,
+   "latitude": 49.2454425
+ },
+ {
+   "address": "400 10th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 128,
+   "longitude": -123.1127602,
+   "latitude": 49.2622223
+ },
+ {
+   "address": "2200 48th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0621246,
+   "latitude": 49.226041
+ },
+ {
+   "address": "1500 14th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.073695,
+   "latitude": 49.2577771
+ },
+ {
+   "address": "900 15th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 102,
+   "longitude": -123.1246452,
+   "latitude": 49.2575861
+ },
+ {
+   "address": "700 23rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0900924,
+   "latitude": 49.2501039
+ },
+ {
+   "address": "300 Burrard St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1167693,
+   "latitude": 49.2872935
+ },
+ {
+   "address": "1200 Georgia St. W., Vancouver, BC, Canada",
+   "ticketNumber": 140,
+   "longitude": -123.1259289,
+   "latitude": 49.2872225
+ },
+ {
+   "address": "700 Bute St., Vancouver, BC, Canada",
+   "ticketNumber": 708,
+   "longitude": -123.1257232,
+   "latitude": 49.2868388
+ },
+ {
+   "address": "600 45th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0924431,
+   "latitude": 49.2290097
+ },
+ {
+   "address": "1000 Georgia St. W., Vancouver, BC, Canada",
+   "ticketNumber": 220,
+   "longitude": -123.1214784,
+   "latitude": 49.2843458
+ },
+ {
+   "address": "6600 Inverness St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0797911,
+   "latitude": 49.2243563
+ },
+ {
+   "address": "3700 Puget Dr., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1751654,
+   "latitude": 49.2542549
+ },
+ {
+   "address": "2000 Burrard St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.145335,
+   "latitude": 49.2681559
+ },
+ {
+   "address": "2900 Pine St., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.1435228,
+   "latitude": 49.26005
+ },
+ {
+   "address": "200 46th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1017883,
+   "latitude": 49.2284765
+ },
+ {
+   "address": "1400 Old Bridge Ct., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1345622,
+   "latitude": 49.270564
+ },
+ {
+   "address": "1900 Trutch St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.175724,
+   "latitude": 49.269369
+ },
+ {
+   "address": "1500 64th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1401452,
+   "latitude": 49.2131354
+ },
+ {
+   "address": "400 35th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0969948,
+   "latitude": 49.23886719999999
+ },
+ {
+   "address": "800 37th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.088071,
+   "latitude": 49.2365114
+ },
+ {
+   "address": "300 Howe St., Vancouver, BC, Canada",
+   "ticketNumber": 416,
+   "longitude": -123.1142107,
+   "latitude": 49.2861214
+ },
+ {
+   "address": "1000 George St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0793127,
+   "latitude": 49.2757307
+ },
+ {
+   "address": "1000 Pender St. W., Vancouver, BC, Canada",
+   "ticketNumber": 408,
+   "longitude": -123.117793,
+   "latitude": 49.2865925
+ },
+ {
+   "address": "6400 Collingwood St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1816406,
+   "latitude": 49.2287332
+ },
+ {
+   "address": "500 Woodland Dr., Vancouver, BC, Canada",
+   "ticketNumber": 34,
+   "longitude": -123.0726473,
+   "latitude": 49.2804026
+ },
+ {
+   "address": "2300 Birch St., Vancouver, BC, Canada",
+   "ticketNumber": 60,
+   "longitude": -123.1334008,
+   "latitude": 49.2649727
+ },
+ {
+   "address": "3100 16th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0390326,
+   "latitude": 49.2555872
+ },
+ {
+   "address": "200 36th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1009138,
+   "latitude": 49.2381264
+ },
+ {
+   "address": "3800 29th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1883193,
+   "latitude": 49.2459971
+ },
+ {
+   "address": "2400 Stephens St., Vancouver, BC, Canada",
+   "ticketNumber": 65,
+   "longitude": -123.166244,
+   "latitude": 49.26503899999999
+ },
+ {
+   "address": "1200 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 71,
+   "longitude": -123.1316643,
+   "latitude": 49.2622903
+ },
+ {
+   "address": "400 21st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 28,
+   "longitude": -123.11248,
+   "latitude": 49.2517974
+ },
+ {
+   "address": "2800 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 313,
+   "longitude": -123.1384068,
+   "latitude": 49.2608758
+ },
+ {
+   "address": "4500 Carnarvon St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.172943,
+   "latitude": 49.2463814
+ },
+ {
+   "address": "1800 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 40,
+   "longitude": -123.1459118,
+   "latitude": 49.2599433
+ },
+ {
+   "address": "600 Helmcken St., Vancouver, BC, Canada",
+   "ticketNumber": 210,
+   "longitude": -123.1240727,
+   "latitude": 49.2778627
+ },
+ {
+   "address": "2900 7th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 27,
+   "longitude": -123.0434185,
+   "latitude": 49.2636257
+ },
+ {
+   "address": "3400 Heather St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1198545,
+   "latitude": 49.2550628
+ },
+ {
+   "address": "0 28th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 31,
+   "longitude": -123.0504968,
+   "latitude": 49.2453057
+ },
+ {
+   "address": "3300 Rupert St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0334451,
+   "latitude": 49.25469409999999
+ },
+ {
+   "address": "2100 Oxford St., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.0615776,
+   "latitude": 49.28570269999999
+ },
+ {
+   "address": "200 65th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1013878,
+   "latitude": 49.2115436
+ },
+ {
+   "address": "2000 16th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.1507708,
+   "latitude": 49.2572467
+ },
+ {
+   "address": "3000 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 299,
+   "longitude": -123.138512,
+   "latitude": 49.2588667
+ },
+ {
+   "address": "2800 Oxford St., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.0469849,
+   "latitude": 49.2854689
+ },
+ {
+   "address": "1500 6th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1080,
+   "longitude": -123.138644,
+   "latitude": 49.266008
+ },
+ {
+   "address": "2200 Cornwall Ave., Vancouver, BC, Canada",
+   "ticketNumber": 336,
+   "longitude": -123.1549761,
+   "latitude": 49.2725806
+ },
+ {
+   "address": "1500 Kaslo St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0467192,
+   "latitude": 49.2716217
+ },
+ {
+   "address": "100 37th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1034316,
+   "latitude": 49.237068
+ },
+ {
+   "address": "3100 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.1181276,
+   "latitude": 49.2574247
+ },
+ {
+   "address": "2500 Ward St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0525304,
+   "latitude": 49.2415189
+ },
+ {
+   "address": "100 Pender St. W., Vancouver, BC, Canada",
+   "ticketNumber": 48,
+   "longitude": -123.1083648,
+   "latitude": 49.2809257
+ },
+ {
+   "address": "7800 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1297522,
+   "latitude": 49.21414129999999
+ },
+ {
+   "address": "2400 Alberta St., Vancouver, BC, Canada",
+   "ticketNumber": 53,
+   "longitude": -123.1109114,
+   "latitude": 49.263882
+ },
+ {
+   "address": "1200 11th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 92,
+   "longitude": -123.1315457,
+   "latitude": 49.26137869999999
+ },
+ {
+   "address": "900 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 325,
+   "longitude": -123.1244996,
+   "latitude": 49.2641982
+ },
+ {
+   "address": "1400 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 128,
+   "longitude": -123.1362388,
+   "latitude": 49.25979299999999
+ },
+ {
+   "address": "700 Jervis St., Vancouver, BC, Canada",
+   "ticketNumber": 170,
+   "longitude": -123.1267158,
+   "latitude": 49.2882409
+ },
+ {
+   "address": "700 Broughton St., Vancouver, BC, Canada",
+   "ticketNumber": 95,
+   "longitude": -123.1282417,
+   "latitude": 49.2890422
+ },
+ {
+   "address": "1000 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 54,
+   "longitude": -123.1276656,
+   "latitude": 49.2585793
+ },
+ {
+   "address": "400 Keefer St., Vancouver, BC, Canada",
+   "ticketNumber": 158,
+   "longitude": -123.0954825,
+   "latitude": 49.279419
+ },
+ {
+   "address": "2400 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 414,
+   "longitude": -123.1029227,
+   "latitude": 49.2637375
+ },
+ {
+   "address": "500 Alexander St., Vancouver, BC, Canada",
+   "ticketNumber": 269,
+   "longitude": -123.0930833,
+   "latitude": 49.2837082
+ },
+ {
+   "address": "400 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1250,
+   "longitude": -123.1130011,
+   "latitude": 49.2637892
+ },
+ {
+   "address": "2500 Balaclava St., Vancouver, BC, Canada",
+   "ticketNumber": 123,
+   "longitude": -123.1738497,
+   "latitude": 49.26400750000001
+ },
+ {
+   "address": "1600 Pender St. E., Vancouver, BC, Canada",
+   "ticketNumber": 148,
+   "longitude": -123.0726482,
+   "latitude": 49.2803237
+ },
+ {
+   "address": "1700 4th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 54,
+   "longitude": -123.1432774,
+   "latitude": 49.2679897
+ },
+ {
+   "address": "2400 Scotia St., Vancouver, BC, Canada",
+   "ticketNumber": 74,
+   "longitude": -123.0989195,
+   "latitude": 49.2639449
+ },
+ {
+   "address": "2900 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 244,
+   "longitude": -123.1387008,
+   "latitude": 49.2598534
+ },
+ {
+   "address": "1500 Beach Ave., Vancouver, BC, Canada",
+   "ticketNumber": 49,
+   "longitude": -123.1413037,
+   "latitude": 49.2827718
+ },
+ {
+   "address": "3300 Willow St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1220635,
+   "latitude": 49.25613629999999
+ },
+ {
+   "address": "500 23rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 112,
+   "longitude": -123.1145327,
+   "latitude": 49.2498786
+ },
+ {
+   "address": "400 Carrall St., Vancouver, BC, Canada",
+   "ticketNumber": 102,
+   "longitude": -123.1043349,
+   "latitude": 49.281494
+ },
+ {
+   "address": "700 Graveley St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0770647,
+   "latitude": 49.270405
+ },
+ {
+   "address": "3600 5th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.183649,
+   "latitude": 49.267748
+ },
+ {
+   "address": "2000 15th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1507389,
+   "latitude": 49.258192
+ },
+ {
+   "address": "1900 3rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 115,
+   "longitude": -123.1479354,
+   "latitude": 49.2689318
+ },
+ {
+   "address": "0 Powell St., Vancouver, BC, Canada",
+   "ticketNumber": 389,
+   "longitude": -123.0843227,
+   "latitude": 49.2827482
+ },
+ {
+   "address": "300 34th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0993396,
+   "latitude": 49.2396538
+ },
+ {
+   "address": "3300 11th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.1778933,
+   "latitude": 49.2624427
+ },
+ {
+   "address": "100 2nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 195,
+   "longitude": -123.1065781,
+   "latitude": 49.26926599999999
+ },
+ {
+   "address": "1100 Cordova St. W., Vancouver, BC, Canada",
+   "ticketNumber": 1215,
+   "longitude": -123.1205233,
+   "latitude": 49.288456
+ },
+ {
+   "address": "0 29th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 103,
+   "longitude": -123.0405753,
+   "latitude": 49.2445379
+ },
+ {
+   "address": "100 26th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 49,
+   "longitude": -123.1028808,
+   "latitude": 49.24784690000001
+ },
+ {
+   "address": "3300 Church St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0352014,
+   "latitude": 49.2345353
+ },
+ {
+   "address": "1400 Pender St. W., Vancouver, BC, Canada",
+   "ticketNumber": 76,
+   "longitude": -123.1274289,
+   "latitude": 49.2895703
+ },
+ {
+   "address": "200 17th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 37,
+   "longitude": -123.1011881,
+   "latitude": 49.255526
+ },
+ {
+   "address": "100 Keefer Pl., Vancouver, BC, Canada",
+   "ticketNumber": 124,
+   "longitude": -123.1083712,
+   "latitude": 49.2795672
+ },
+ {
+   "address": "6500 Frederick St., Vancouver, BC, Canada",
+   "ticketNumber": 18,
+   "longitude": -123.0916997,
+   "latitude": 49.22514450000001
+ },
+ {
+   "address": "700 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1199791,
+   "latitude": 49.2604256
+ },
+ {
+   "address": "3500 20th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1817806,
+   "latitude": 49.25467080000001
+ },
+ {
+   "address": "100 6th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 80,
+   "longitude": -123.102983,
+   "latitude": 49.2653887
+ },
+ {
+   "address": "1100 Bidwell St., Vancouver, BC, Canada",
+   "ticketNumber": 126,
+   "longitude": -123.1382331,
+   "latitude": 49.2870485
+ },
+ {
+   "address": "400 45th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0973921,
+   "latitude": 49.2292869
+ },
+ {
+   "address": "2700 Skeena St., Vancouver, BC, Canada",
+   "ticketNumber": 118,
+   "longitude": -123.0280208,
+   "latitude": 49.2607955
+ },
+ {
+   "address": "3200 48th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.038819,
+   "latitude": 49.2254874
+ },
+ {
+   "address": "1500 20th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0819046,
+   "latitude": 49.25250560000001
+ },
+ {
+   "address": "300 5th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 163,
+   "longitude": -123.098814,
+   "latitude": 49.266378
+ },
+ {
+   "address": "2000 39th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0659781,
+   "latitude": 49.2343792
+ },
+ {
+   "address": "200 Cordova St. E., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.0991899,
+   "latitude": 49.2820574
+ },
+ {
+   "address": "1700 2nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.1431599,
+   "latitude": 49.26974800000001
+ },
+ {
+   "address": "200 5th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 51,
+   "longitude": -123.1005357,
+   "latitude": 49.2662752
+ },
+ {
+   "address": "1200 16th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0796518,
+   "latitude": 49.2560611
+ },
+ {
+   "address": "1000 Harwood St., Vancouver, BC, Canada",
+   "ticketNumber": 228,
+   "longitude": -123.1318591,
+   "latitude": 49.2779102
+ },
+ {
+   "address": "400 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 70,
+   "longitude": -123.1131183,
+   "latitude": 49.2592192
+ },
+ {
+   "address": "3300 Commercial Dr., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0684681,
+   "latitude": 49.2551519
+ },
+ {
+   "address": "200 Woodstock Ave. E, Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.101712,
+   "latitude": 49.2336028
+ },
+ {
+   "address": "5400 Boulevard W., Vancouver, BC, Canada",
+   "ticketNumber": 252,
+   "longitude": -123.1207375,
+   "latitude": 49.2827291
+ },
+ {
+   "address": "0 53rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0683896,
+   "latitude": 49.2218343
+ },
+ {
+   "address": "1000 Salsbury Dr., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.0672874,
+   "latitude": 49.2755464
+ },
+ {
+   "address": "3500 30th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.181911,
+   "latitude": 49.245196
+ },
+ {
+   "address": "4900 Carnarvon St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1727732,
+   "latitude": 49.2437718
+ },
+ {
+   "address": "5300 McKinnon St., Vancouver, BC, Canada",
+   "ticketNumber": 82,
+   "longitude": -123.0366533,
+   "latitude": 49.2362338
+ },
+ {
+   "address": "200 38th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1016477,
+   "latitude": 49.2363296
+ },
+ {
+   "address": "3100 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.173962,
+   "latitude": 49.2650544
+ },
+ {
+   "address": "2200 36th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1581737,
+   "latitude": 49.2393218
+ },
+ {
+   "address": "2400 Trimble St., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.2056254,
+   "latitude": 49.2660773
+ },
+ {
+   "address": "500 Bute St., Vancouver, BC, Canada",
+   "ticketNumber": 415,
+   "longitude": -123.1226082,
+   "latitude": 49.2886683
+ },
+ {
+   "address": "400 57th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.097747,
+   "latitude": 49.218373
+ },
+ {
+   "address": "4600 Earles St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0434319,
+   "latitude": 49.2428626
+ },
+ {
+   "address": "1100 Melville St., Vancouver, BC, Canada",
+   "ticketNumber": 1255,
+   "longitude": -123.1230105,
+   "latitude": 49.28668820000001
+ },
+ {
+   "address": "3600 Tupper St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1161408,
+   "latitude": 49.2547006
+ },
+ {
+   "address": "500 17th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 145,
+   "longitude": -123.115097,
+   "latitude": 49.2558829
+ },
+ {
+   "address": "2400 23rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.1600318,
+   "latitude": 49.2516115
+ },
+ {
+   "address": "6200 St. George St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0938087,
+   "latitude": 49.22744170000001
+ },
+ {
+   "address": "1200 26th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.181825,
+   "latitude": 49.249004
+ },
+ {
+   "address": "3600 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 111,
+   "longitude": -123.0264686,
+   "latitude": 49.2321768
+ },
+ {
+   "address": "2000 2nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 26,
+   "longitude": -123.1501711,
+   "latitude": 49.2696355
+ },
+ {
+   "address": "1300 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 50,
+   "longitude": -123.1340591,
+   "latitude": 49.2586174
+ },
+ {
+   "address": "900 18th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1244485,
+   "latitude": 49.2552871
+ },
+ {
+   "address": "200 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.0563139,
+   "latitude": 49.2665145
+ },
+ {
+   "address": "100 Central St., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.0996322,
+   "latitude": 49.27140439999999
+ },
+ {
+   "address": "900 Dunsmuir St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.118376,
+   "latitude": 49.2848932
+ },
+ {
+   "address": "2600 Watson St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1001527,
+   "latitude": 49.2619503
+ },
+ {
+   "address": "6100 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0973921,
+   "latitude": 49.2292869
+ },
+ {
+   "address": "700 Hornby St., Vancouver, BC, Canada",
+   "ticketNumber": 273,
+   "longitude": -123.1201857,
+   "latitude": 49.2837172
+ },
+ {
+   "address": "5400 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1013404,
+   "latitude": 49.23628979999999
+ },
+ {
+   "address": "1700 Pine St., Vancouver, BC, Canada",
+   "ticketNumber": 298,
+   "longitude": -123.1430212,
+   "latitude": 49.26957669999999
+ },
+ {
+   "address": "3800 21st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1880736,
+   "latitude": 49.2537921
+ },
+ {
+   "address": "100 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 217,
+   "longitude": -123.1450448,
+   "latitude": 49.2635592
+ },
+ {
+   "address": "300 Abbott St., Vancouver, BC, Canada",
+   "ticketNumber": 585,
+   "longitude": -123.106734,
+   "latitude": 49.2829485
+ },
+ {
+   "address": "100 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 110,
+   "longitude": -123.0995227,
+   "latitude": 49.2840887
+ },
+ {
+   "address": "1300 Homer St., Vancouver, BC, Canada",
+   "ticketNumber": 481,
+   "longitude": -123.1248804,
+   "latitude": 49.2742148
+ },
+ {
+   "address": "500 Gore Ave., Vancouver, BC, Canada",
+   "ticketNumber": 138,
+   "longitude": -123.0969999,
+   "latitude": 49.2805976
+ },
+ {
+   "address": "3100 Arbutus St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1531169,
+   "latitude": 49.2582225
+ },
+ {
+   "address": "8400 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 27,
+   "longitude": -123.1172162,
+   "latitude": 49.2098644
+ },
+ {
+   "address": "1000 Canada Pl., Vancouver, BC, Canada",
+   "ticketNumber": 1081,
+   "longitude": -123.113742,
+   "latitude": 49.2876595
+ },
+ {
+   "address": "1100 16th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0814802,
+   "latitude": 49.2561028
+ },
+ {
+   "address": "1000 26th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0511334,
+   "latitude": 49.3333787
+ },
+ {
+   "address": "800 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.0869757,
+   "latitude": 49.2623148
+ },
+ {
+   "address": "800 Commercial Dr., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0704878,
+   "latitude": 49.2775725
+ },
+ {
+   "address": "100 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 168,
+   "longitude": -123.1496634,
+   "latitude": 49.2683428
+ },
+ {
+   "address": "1400 Burrard St., Vancouver, BC, Canada",
+   "ticketNumber": 39,
+   "longitude": -123.1331004,
+   "latitude": 49.2761807
+ },
+ {
+   "address": "3500 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0817816,
+   "latitude": 49.2532556
+ },
+ {
+   "address": "2800 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 357,
+   "longitude": -123.1685307,
+   "latitude": 49.2641954
+ },
+ {
+   "address": "1000 Howe St., Vancouver, BC, Canada",
+   "ticketNumber": 749,
+   "longitude": -123.1239257,
+   "latitude": 49.2797428
+ },
+ {
+   "address": "2600 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 382,
+   "longitude": -123.1647469,
+   "latitude": 49.26400839999999
+ },
+ {
+   "address": "1000 Alberni St., Vancouver, BC, Canada",
+   "ticketNumber": 1433,
+   "longitude": -123.1217498,
+   "latitude": 49.2840684
+ },
+ {
+   "address": "2100 Napier St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0618833,
+   "latitude": 49.2747995
+ },
+ {
+   "address": "600 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 102,
+   "longitude": -123.1177684,
+   "latitude": 49.2593346
+ },
+ {
+   "address": "200 15th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 76,
+   "longitude": -123.1011553,
+   "latitude": 49.2575137
+ },
+ {
+   "address": "1900 51st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0674906,
+   "latitude": 49.2232569
+ },
+ {
+   "address": "200 47th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1015293,
+   "latitude": 49.2275514
+ },
+ {
+   "address": "2900 2nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0991754,
+   "latitude": 49.2682537
+ },
+ {
+   "address": "1000 Pacific St., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.1324422,
+   "latitude": 49.276968
+ },
+ {
+   "address": "400 36th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.097508,
+   "latitude": 49.2377538
+ },
+ {
+   "address": "7100 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1061377,
+   "latitude": 49.2202576
+ },
+ {
+   "address": "2000 Highbury St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1876412,
+   "latitude": 49.2688889
+ },
+ {
+   "address": "100 52nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.103894,
+   "latitude": 49.22290599999999
+ },
+ {
+   "address": "500 11th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.0927897,
+   "latitude": 49.2605126
+ },
+ {
+   "address": "3000 42nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1730509,
+   "latitude": 49.2337739
+ },
+ {
+   "address": "400 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.1131724,
+   "latitude": 49.258518
+ },
+ {
+   "address": "3600 Hastings St. E., Vancouver, BC, Canada",
+   "ticketNumber": 62,
+   "longitude": -123.0254087,
+   "latitude": 49.280876
+ },
+ {
+   "address": "500 Vernon Dr., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.079039,
+   "latitude": 49.280172
+ },
+ {
+   "address": "4200 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0968204,
+   "latitude": 49.2473812
+ },
+ {
+   "address": "1400 William St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0758897,
+   "latitude": 49.2740374
+ },
+ {
+   "address": "1400 Pendrell St., Vancouver, BC, Canada",
+   "ticketNumber": 55,
+   "longitude": -123.1361321,
+   "latitude": 49.2846177
+ },
+ {
+   "address": "2000 45th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0652952,
+   "latitude": 49.2294533
+ },
+ {
+   "address": "1800 Burrard St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1452033,
+   "latitude": 49.2689187
+ },
+ {
+   "address": "1800 Parker St., Vancouver, BC, Canada",
+   "ticketNumber": 34,
+   "longitude": -123.0672317,
+   "latitude": 49.2755258
+ },
+ {
+   "address": "600 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 95,
+   "longitude": -123.1180208,
+   "latitude": 49.25841339999999
+ },
+ {
+   "address": "2800 33rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1679307,
+   "latitude": 49.24229829999999
+ },
+ {
+   "address": "1100 37th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0827226,
+   "latitude": 49.2362996
+ },
+ {
+   "address": "500 Powell St., Vancouver, BC, Canada",
+   "ticketNumber": 82,
+   "longitude": -123.0931764,
+   "latitude": 49.282932
+ },
+ {
+   "address": "4600 Boundary Rd., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0232544,
+   "latitude": 49.243691
+ },
+ {
+   "address": "300 Woodstock Ave. E, Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0995369,
+   "latitude": 49.2335614
+ },
+ {
+   "address": "3800 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1006233,
+   "latitude": 49.2508978
+ },
+ {
+   "address": "5700 Balsam St., Vancouver, BC, Canada",
+   "ticketNumber": 150,
+   "longitude": -123.1610853,
+   "latitude": 49.23438489999999
+ },
+ {
+   "address": "600 Cordova St. E., Vancouver, BC, Canada",
+   "ticketNumber": 215,
+   "longitude": -123.091368,
+   "latitude": 49.2819854
+ },
+ {
+   "address": "2700 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 40,
+   "longitude": -123.1663563,
+   "latitude": 49.2683471
+ },
+ {
+   "address": "1900 Napier St., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.0656653,
+   "latitude": 49.274831
+ },
+ {
+   "address": "1300 37th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.1349292,
+   "latitude": 49.2377386
+ },
+ {
+   "address": "200 Marine Dr. S.W., Vancouver, BC, Canada",
+   "ticketNumber": 35,
+   "longitude": -123.1108126,
+   "latitude": 49.2115154
+ },
+ {
+   "address": "400 30th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0967291,
+   "latitude": 49.2433365
+ },
+ {
+   "address": "1400 Station St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.098076,
+   "latitude": 49.2712687
+ },
+ {
+   "address": "3300 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0817711,
+   "latitude": 49.253464
+ },
+ {
+   "address": "1500 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 268,
+   "longitude": -123.1385995,
+   "latitude": 49.2626325
+ },
+ {
+   "address": "1200 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 37,
+   "longitude": -123.074478,
+   "latitude": 49.27263139999999
+ },
+ {
+   "address": "1300 Rolston St., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.1277155,
+   "latitude": 49.27545199999999
+ },
+ {
+   "address": "5200 Culloden St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0782592,
+   "latitude": 49.2368304
+ },
+ {
+   "address": "4300 Alexandra St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1411918,
+   "latitude": 49.2480295
+ },
+ {
+   "address": "900 Hamilton St., Vancouver, BC, Canada",
+   "ticketNumber": 359,
+   "longitude": -123.1186268,
+   "latitude": 49.2775592
+ },
+ {
+   "address": "1100 Haro St., Vancouver, BC, Canada",
+   "ticketNumber": 292,
+   "longitude": -123.1263516,
+   "latitude": 49.2838959
+ },
+ {
+   "address": "2100 Garden Dr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0578671,
+   "latitude": 49.2659414
+ },
+ {
+   "address": "1600 Pendrell St., Vancouver, BC, Canada",
+   "ticketNumber": 54,
+   "longitude": -123.139151,
+   "latitude": 49.2868739
+ },
+ {
+   "address": "200 16th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 108,
+   "longitude": -123.1006513,
+   "latitude": 49.2565941
+ },
+ {
+   "address": "3100 Findlay St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0676345,
+   "latitude": 49.2563113
+ },
+ {
+   "address": "200 28th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1224149,
+   "latitude": 49.2462396
+ },
+ {
+   "address": "2200 4th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.15535,
+   "latitude": 49.2679266
+ },
+ {
+   "address": "1700 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 35,
+   "longitude": -123.1435258,
+   "latitude": 49.2599296
+ },
+ {
+   "address": "6400 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 35,
+   "longitude": -123.0657484,
+   "latitude": 49.2263177
+ },
+ {
+   "address": "2300 Hastings St. E., Vancouver, BC, Canada",
+   "ticketNumber": 36,
+   "longitude": -123.0578507,
+   "latitude": 49.281184
+ },
+ {
+   "address": "2500 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 147,
+   "longitude": -123.1029828,
+   "latitude": 49.262967
+ },
+ {
+   "address": "4500 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 32,
+   "longitude": -123.1148414,
+   "latitude": 49.24539739999999
+ },
+ {
+   "address": "1000 Station St., Vancouver, BC, Canada",
+   "ticketNumber": 394,
+   "longitude": -123.0979868,
+   "latitude": 49.2725103
+ },
+ {
+   "address": "800 Jervis St., Vancouver, BC, Canada",
+   "ticketNumber": 35,
+   "longitude": -123.1278474,
+   "latitude": 49.2870712
+ },
+ {
+   "address": "900 Beach Ave., Vancouver, BC, Canada",
+   "ticketNumber": 173,
+   "longitude": -123.1331598,
+   "latitude": 49.2753932
+ },
+ {
+   "address": "5900 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.097324,
+   "latitude": 49.2306738
+ },
+ {
+   "address": "1000 Beach Ave., Vancouver, BC, Canada",
+   "ticketNumber": 106,
+   "longitude": -123.1338545,
+   "latitude": 49.2757826
+ },
+ {
+   "address": "2600 Highbury St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1876361,
+   "latitude": 49.2635754
+ },
+ {
+   "address": "200 Pender St. E., Vancouver, BC, Canada",
+   "ticketNumber": 452,
+   "longitude": -123.0992782,
+   "latitude": 49.28029890000001
+ },
+ {
+   "address": "5800 Larch St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1624579,
+   "latitude": 49.23366559999999
+ },
+ {
+   "address": "1900 19th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 51,
+   "longitude": -123.0658439,
+   "latitude": 49.25385439999999
+ },
+ {
+   "address": "2700 Hemlock St., Vancouver, BC, Canada",
+   "ticketNumber": 150,
+   "longitude": -123.1359804,
+   "latitude": 49.2613587
+ },
+ {
+   "address": "2200 York Ave., Vancouver, BC, Canada",
+   "ticketNumber": 131,
+   "longitude": -123.1552345,
+   "latitude": 49.2715712
+ },
+ {
+   "address": "1400 6th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 228,
+   "longitude": -123.1362075,
+   "latitude": 49.2660297
+ },
+ {
+   "address": "1400 14th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.075937,
+   "latitude": 49.2576741
+ },
+ {
+   "address": "1100 Gilford St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1417654,
+   "latitude": 49.2893429
+ },
+ {
+   "address": "500 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 148,
+   "longitude": -123.1151545,
+   "latitude": 49.25873869999999
+ },
+ {
+   "address": "6500 Alberta St., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.1129607,
+   "latitude": 49.2262804
+ },
+ {
+   "address": "1400 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 211,
+   "longitude": -123.1362692,
+   "latitude": 49.2588699
+ },
+ {
+   "address": "2400 Birch St., Vancouver, BC, Canada",
+   "ticketNumber": 274,
+   "longitude": -123.1336909,
+   "latitude": 49.2644319
+ },
+ {
+   "address": "1200 Georgia St. E., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.1259289,
+   "latitude": 49.2872225
+ },
+ {
+   "address": "900 38th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0865556,
+   "latitude": 49.2354172
+ },
+ {
+   "address": "600 28th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1185379,
+   "latitude": 49.24616409999999
+ },
+ {
+   "address": "0 11th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 81,
+   "longitude": -123.1577324,
+   "latitude": 49.2620719
+ },
+ {
+   "address": "1800 Maple St., Vancouver, BC, Canada",
+   "ticketNumber": 28,
+   "longitude": -123.1503008,
+   "latitude": 49.26985670000001
+ },
+ {
+   "address": "3400 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 106,
+   "longitude": -123.0335119,
+   "latitude": 49.2326659
+ },
+ {
+   "address": "800 39th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1237263,
+   "latitude": 49.2356355
+ },
+ {
+   "address": "6400 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 31,
+   "longitude": -123.1178477,
+   "latitude": 49.2270117
+ },
+ {
+   "address": "3000 E. Kent Ave. S., Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.0448224,
+   "latitude": 49.2061231
+ },
+ {
+   "address": "2700 St. Catherines St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0850895,
+   "latitude": 49.2604359
+ },
+ {
+   "address": "8600 Montcalm St, Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.1361299,
+   "latitude": 49.20850249999999
+ },
+ {
+   "address": "6200 Boulevard E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.250572,
+   "latitude": 49.26506999999999
+ },
+ {
+   "address": "6500 Fraser St., Vancouver, BC, Canada",
+   "ticketNumber": 106,
+   "longitude": -123.0907656,
+   "latitude": 49.2254556
+ },
+ {
+   "address": "1600 Powell St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0725798,
+   "latitude": 49.2834987
+ },
+ {
+   "address": "1100 73rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 27,
+   "longitude": -123.1318103,
+   "latitude": 49.2043149
+ },
+ {
+   "address": "600 50th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.0926389,
+   "latitude": 49.2245438
+ },
+ {
+   "address": "1700 41st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1455362,
+   "latitude": 49.234422
+ },
+ {
+   "address": "100 54th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.103962,
+   "latitude": 49.2211092
+ },
+ {
+   "address": "6400 Marguerite St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1449603,
+   "latitude": 49.2279127
+ },
+ {
+   "address": "2100 Guelph St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.094612,
+   "latitude": 49.26615140000001
+ },
+ {
+   "address": "1200 Nicola St., Vancouver, BC, Canada",
+   "ticketNumber": 81,
+   "longitude": -123.1371034,
+   "latitude": 49.2845557
+ },
+ {
+   "address": "0 30th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.1013548,
+   "latitude": 49.24327659999999
+ },
+ {
+   "address": "5100 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0967036,
+   "latitude": 49.2386926
+ },
+ {
+   "address": "1000 Melville St., Vancouver, BC, Canada",
+   "ticketNumber": 81,
+   "longitude": -123.1211867,
+   "latitude": 49.2859504
+ },
+ {
+   "address": "300 38th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0992628,
+   "latitude": 49.23608580000001
+ },
+ {
+   "address": "4200 Commercial Dr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0681689,
+   "latitude": 49.2544017
+ },
+ {
+   "address": "3900 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.190959,
+   "latitude": 49.2599431
+ },
+ {
+   "address": "2400 St. Catherines St., Vancouver, BC, Canada",
+   "ticketNumber": 27,
+   "longitude": -123.0850324,
+   "latitude": 49.2632469
+ },
+ {
+   "address": "5800 Vine St., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.159674,
+   "latitude": 49.2337059
+ },
+ {
+   "address": "3100 54th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.0411208,
+   "latitude": 49.2200058
+ },
+ {
+   "address": "4300 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.185219,
+   "latitude": 49.248084
+ },
+ {
+   "address": "3600 Wellington Ave., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.0270821,
+   "latitude": 49.2386796
+ },
+ {
+   "address": "1700 Comox St., Vancouver, BC, Canada",
+   "ticketNumber": 31,
+   "longitude": -123.1374763,
+   "latitude": 49.2869851
+ },
+ {
+   "address": "4000 Welwyn St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0696209,
+   "latitude": 49.2490189
+ },
+ {
+   "address": "100 Kaslo St. N., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0464309,
+   "latitude": 49.2841118
+ },
+ {
+   "address": "5600 Carnarvon St., Vancouver, BC, Canada",
+   "ticketNumber": 21,
+   "longitude": -123.1730408,
+   "latitude": 49.2357016
+ },
+ {
+   "address": "700 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 73,
+   "longitude": -123.1199214,
+   "latitude": 49.2584457
+ },
+ {
+   "address": "1400 Rupert St., Vancouver, BC, Canada",
+   "ticketNumber": 21,
+   "longitude": -123.0336625,
+   "latitude": 49.2722743
+ },
+ {
+   "address": "5400 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1053418,
+   "latitude": 49.2366401
+ },
+ {
+   "address": "2100 Manitoba St., Vancouver, BC, Canada",
+   "ticketNumber": 53,
+   "longitude": -123.1067001,
+   "latitude": 49.26638029999999
+ },
+ {
+   "address": "3500 King Edward Ave. W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.181851,
+   "latitude": 49.24994
+ },
+ {
+   "address": "900 46th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1268058,
+   "latitude": 49.2292569
+ },
+ {
+   "address": "800 Windermere St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0363279,
+   "latitude": 49.2763961
+ },
+ {
+   "address": "3700 16th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.186669,
+   "latitude": 49.2576504
+ },
+ {
+   "address": "2700 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0490961,
+   "latitude": 49.2616459
+ },
+ {
+   "address": "6300 Beatrice St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0667248,
+   "latitude": 49.22690009999999
+ },
+ {
+   "address": "2200 Marstrand Ave., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.156314,
+   "latitude": 49.2623261
+ },
+ {
+   "address": "0 21st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1529908,
+   "latitude": 49.2535102
+ },
+ {
+   "address": "2000 30th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1013548,
+   "latitude": 49.24327659999999
+ },
+ {
+   "address": "0 Walter Hardwick Ave., Vancouver, BC, Canada",
+   "ticketNumber": 20,
+   "longitude": -123.1066674,
+   "latitude": 49.2709381
+ },
+ {
+   "address": "1400 Maple St., Vancouver, BC, Canada",
+   "ticketNumber": 53,
+   "longitude": -123.1498918,
+   "latitude": 49.2733696
+ },
+ {
+   "address": "2900 Hebb Ave., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0439428,
+   "latitude": 49.2592298
+ },
+ {
+   "address": "0 29th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1729229,
+   "latitude": 49.2461839
+ },
+ {
+   "address": "3100 3rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 26,
+   "longitude": -123.1737807,
+   "latitude": 49.2693364
+ },
+ {
+   "address": "800 19th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.122142,
+   "latitude": 49.2543655
+ },
+ {
+   "address": "0 Smithe St., Vancouver, BC, Canada",
+   "ticketNumber": 46,
+   "longitude": -123.1185342,
+   "latitude": 49.2784155
+ },
+ {
+   "address": "1500 43rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1405548,
+   "latitude": 49.23249180000001
+ },
+ {
+   "address": "700 23rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 26,
+   "longitude": -123.1203088,
+   "latitude": 49.2506863
+ },
+ {
+   "address": "200 King Edward Ave. E., Vancouver, BC, Canada",
+   "ticketNumber": 18,
+   "longitude": -123.1010448,
+   "latitude": 49.2487338
+ },
+ {
+   "address": "2800 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 49,
+   "longitude": -123.1176165,
+   "latitude": 49.26039060000001
+ },
+ {
+   "address": "1000 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 74,
+   "longitude": -123.1272445,
+   "latitude": 49.2637076
+ },
+ {
+   "address": "2300 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1579133,
+   "latitude": 49.26363449999999
+ },
+ {
+   "address": "1000 Garden Dr., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0576961,
+   "latitude": 49.274968
+ },
+ {
+   "address": "1700 Parker St., Vancouver, BC, Canada",
+   "ticketNumber": 199,
+   "longitude": -123.0695393,
+   "latitude": 49.2757655
+ },
+ {
+   "address": "700 69th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 59,
+   "longitude": -123.1209953,
+   "latitude": 49.20896519999999
+ },
+ {
+   "address": "400 1st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1139136,
+   "latitude": 49.26824
+ },
+ {
+   "address": "8800 Hudson St., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.134686,
+   "latitude": 49.205698
+ },
+ {
+   "address": "600 30th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0922482,
+   "latitude": 49.2433728
+ },
+ {
+   "address": "2300 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.0813345,
+   "latitude": 49.2640067
+ },
+ {
+   "address": "3400 Willow St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1221248,
+   "latitude": 49.25488900000001
+ },
+ {
+   "address": "2300 5th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 42,
+   "longitude": -123.1577842,
+   "latitude": 49.267102
+ },
+ {
+   "address": "1400 Georgia St. W., Vancouver, BC, Canada",
+   "ticketNumber": 49,
+   "longitude": -123.1283739,
+   "latitude": 49.289064
+ },
+ {
+   "address": "4500 Dunbar St., Vancouver, BC, Canada",
+   "ticketNumber": 24,
+   "longitude": -123.185233,
+   "latitude": 49.24616
+ },
+ {
+   "address": "800 Homer St., Vancouver, BC, Canada",
+   "ticketNumber": 2056,
+   "longitude": -123.1147064,
+   "latitude": 49.28092239999999
+ },
+ {
+   "address": "3600 30th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1852326,
+   "latitude": 49.2452187
+ },
+ {
+   "address": "1200 Glen Dr., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0813176,
+   "latitude": 49.2741495
+ },
+ {
+   "address": "1700 Lakewood Dr., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0616953,
+   "latitude": 49.269168
+ },
+ {
+   "address": "100 Alexander St., Vancouver, BC, Canada",
+   "ticketNumber": 728,
+   "longitude": -123.1023331,
+   "latitude": 49.2836048
+ },
+ {
+   "address": "900 24th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0862188,
+   "latitude": 49.2490072
+ },
+ {
+   "address": "200 Lakewood Dr., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.0616825,
+   "latitude": 49.2829242
+ },
+ {
+   "address": "700 37th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1194716,
+   "latitude": 49.2373862
+ },
+ {
+   "address": "1700 16th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.0696978,
+   "latitude": 49.2563415
+ },
+ {
+   "address": "3200 49th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0388619,
+   "latitude": 49.2246913
+ },
+ {
+   "address": "0 41st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1582998,
+   "latitude": 49.2343653
+ },
+ {
+   "address": "1900 11th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 46,
+   "longitude": -123.0652454,
+   "latitude": 49.2604284
+ },
+ {
+   "address": "3000 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 594,
+   "longitude": -123.1721936,
+   "latitude": 49.2640324
+ },
+ {
+   "address": "8600 Osler St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.131617,
+   "latitude": 49.208472
+ },
+ {
+   "address": "400 Garden Dr., Vancouver, BC, Canada",
+   "ticketNumber": 38,
+   "longitude": -123.0578505,
+   "latitude": 49.2811886
+ },
+ {
+   "address": "1400 Marine Dr. S.W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1410507,
+   "latitude": 49.2029398
+ },
+ {
+   "address": "1100 72nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 44,
+   "longitude": -123.1324842,
+   "latitude": 49.2056761
+ },
+ {
+   "address": "4700 Gladstone St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0624833,
+   "latitude": 49.2425529
+ },
+ {
+   "address": "200 43rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1013877,
+   "latitude": 49.2310591
+ },
+ {
+   "address": "600 Thurlow St., Vancouver, BC, Canada",
+   "ticketNumber": 144,
+   "longitude": -123.1203758,
+   "latitude": 49.2875463
+ },
+ {
+   "address": "0 40th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.082549,
+   "latitude": 49.2337305
+ },
+ {
+   "address": "0 38th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1207375,
+   "latitude": 49.2827291
+ },
+ {
+   "address": "5600 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1012337,
+   "latitude": 49.2344704
+ },
+ {
+   "address": "1000 Cordova St. W., Vancouver, BC, Canada",
+   "ticketNumber": 2083,
+   "longitude": -123.1152564,
+   "latitude": 49.2873487
+ },
+ {
+   "address": "100 38th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.103592,
+   "latitude": 49.236361
+ },
+ {
+   "address": "2000 Trafalgar St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.1645454,
+   "latitude": 49.2683413
+ },
+ {
+   "address": "5500 Cypress St, Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1491208,
+   "latitude": 49.2363419
+ },
+ {
+   "address": "2000 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1385587,
+   "latitude": 49.2671413
+ },
+ {
+   "address": "700 Cordova St. W., Vancouver, BC, Canada",
+   "ticketNumber": 361,
+   "longitude": -123.1130483,
+   "latitude": 49.2860525
+ },
+ {
+   "address": "4200 46th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0238064,
+   "latitude": 49.2279214
+ },
+ {
+   "address": "300 35th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0989146,
+   "latitude": 49.2387023
+ },
+ {
+   "address": "3300 Clive Ave., Vancouver, BC, Canada",
+   "ticketNumber": 48,
+   "longitude": -123.0350883,
+   "latitude": 49.2390045
+ },
+ {
+   "address": "5700 Fraser St., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0904684,
+   "latitude": 49.2329041
+ },
+ {
+   "address": "6100 Beatrice St., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.0666746,
+   "latitude": 49.2288912
+ },
+ {
+   "address": "3900 Taylor St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1058788,
+   "latitude": 49.2801246
+ },
+ {
+   "address": "6000 Balsam St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1610917,
+   "latitude": 49.2319389
+ },
+ {
+   "address": "6300 Elm St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.164368,
+   "latitude": 49.2290967
+ },
+ {
+   "address": "6000 Elm St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1639267,
+   "latitude": 49.2320066
+ },
+ {
+   "address": "4300 St. George St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0938251,
+   "latitude": 49.2453089
+ },
+ {
+   "address": "5900 Balsam St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1614158,
+   "latitude": 49.2328246
+ },
+ {
+   "address": "1400 Georgia St. E., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0753757,
+   "latitude": 49.2783994
+ },
+ {
+   "address": "2900 42nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0458351,
+   "latitude": 49.2318643
+ },
+ {
+   "address": "3900 19th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1907942,
+   "latitude": 49.2556121
+ },
+ {
+   "address": "2800 Birch St., Vancouver, BC, Canada",
+   "ticketNumber": 62,
+   "longitude": -123.1338165,
+   "latitude": 49.2608052
+ },
+ {
+   "address": "600 National Ave., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0921156,
+   "latitude": 49.2734556
+ },
+ {
+   "address": "6700 Fraser St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.090814,
+   "latitude": 49.2235464
+ },
+ {
+   "address": "2000 Creelman Ave., Vancouver, BC, Canada",
+   "ticketNumber": 105,
+   "longitude": -123.1498721,
+   "latitude": 49.274361
+ },
+ {
+   "address": "1000 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.102096,
+   "latitude": 49.2760907
+ },
+ {
+   "address": "400 Pacific St., Vancouver, BC, Canada",
+   "ticketNumber": 54,
+   "longitude": -123.1261698,
+   "latitude": 49.2730687
+ },
+ {
+   "address": "600 Alamein Ave., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1683271,
+   "latitude": 49.2500734
+ },
+ {
+   "address": "2600 Hemlock St., Vancouver, BC, Canada",
+   "ticketNumber": 203,
+   "longitude": -123.1361732,
+   "latitude": 49.2625954
+ },
+ {
+   "address": "1600 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 83,
+   "longitude": -123.1411568,
+   "latitude": 49.2624534
+ },
+ {
+   "address": "800 Pender St. E., Vancouver, BC, Canada",
+   "ticketNumber": 104,
+   "longitude": -123.1164446,
+   "latitude": 49.28526189999999
+ },
+ {
+   "address": "300 8th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 245,
+   "longitude": -123.0989399,
+   "latitude": 49.263672
+ },
+ {
+   "address": "1600 Charles St., Vancouver, BC, Canada",
+   "ticketNumber": 280,
+   "longitude": -123.0710352,
+   "latitude": 49.2728361
+ },
+ {
+   "address": "1000 Dunsmuir St., Vancouver, BC, Canada",
+   "ticketNumber": 711,
+   "longitude": -123.1193954,
+   "latitude": 49.2855457
+ },
+ {
+   "address": "5500 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.1159716,
+   "latitude": 49.2353872
+ },
+ {
+   "address": "600 Hastings St. E., Vancouver, BC, Canada",
+   "ticketNumber": 108,
+   "longitude": -123.0913713,
+   "latitude": 49.28102759999999
+ },
+ {
+   "address": "900 W. Kent Ave. N., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1191258,
+   "latitude": 49.2057543
+ },
+ {
+   "address": "2500 Hastings St. E., Vancouver, BC, Canada",
+   "ticketNumber": 64,
+   "longitude": -123.0548229,
+   "latitude": 49.2809989
+ },
+ {
+   "address": "2700 35th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1656744,
+   "latitude": 49.2403938
+ },
+ {
+   "address": "1600 Nelson St., Vancouver, BC, Canada",
+   "ticketNumber": 121,
+   "longitude": -123.1358444,
+   "latitude": 49.28729560000001
+ },
+ {
+   "address": "700 Vernon Dr., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.0790353,
+   "latitude": 49.2784582
+ },
+ {
+   "address": "2900 Wall St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0449571,
+   "latitude": 49.2909994
+ },
+ {
+   "address": "6200 Yukon St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.1121189,
+   "latitude": 49.2451507
+ },
+ {
+   "address": "900 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 28,
+   "longitude": -123.1243701,
+   "latitude": 49.26349399999999
+ },
+ {
+   "address": "600 Pender St. E., Vancouver, BC, Canada",
+   "ticketNumber": 79,
+   "longitude": -123.0914691,
+   "latitude": 49.2802538
+ },
+ {
+   "address": "1100 Bute St., Vancouver, BC, Canada",
+   "ticketNumber": 45,
+   "longitude": -123.1315356,
+   "latitude": 49.2827639
+ },
+ {
+   "address": "2100 York Ave., Vancouver, BC, Canada",
+   "ticketNumber": 90,
+   "longitude": -123.1526552,
+   "latitude": 49.2716595
+ },
+ {
+   "address": "5900 Victoria Dr., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0655929,
+   "latitude": 49.2303446
+ },
+ {
+   "address": "2900 Broadway St. E., Vancouver, BC, Canada",
+   "ticketNumber": 32,
+   "longitude": -123.0443804,
+   "latitude": 49.2620043
+ },
+ {
+   "address": "1400 64th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 62,
+   "longitude": -123.1376266,
+   "latitude": 49.2130946
+ },
+ {
+   "address": "5900 Yew St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.1585945,
+   "latitude": 49.2327731
+ },
+ {
+   "address": "1900 Barclay St., Vancouver, BC, Canada",
+   "ticketNumber": 126,
+   "longitude": -123.1391314,
+   "latitude": 49.291096
+ },
+ {
+   "address": "5200 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.116232,
+   "latitude": 49.23737
+ },
+ {
+   "address": "5500 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1276942,
+   "latitude": 49.2357637
+ },
+ {
+   "address": "400 Dunlevy Ave., Vancouver, BC, Canada",
+   "ticketNumber": 71,
+   "longitude": -123.0951429,
+   "latitude": 49.281073
+ },
+ {
+   "address": "400 18th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0965633,
+   "latitude": 49.2547272
+ },
+ {
+   "address": "3100 21st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.039051,
+   "latitude": 49.251485
+ },
+ {
+   "address": "5300 Spencer St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0397998,
+   "latitude": 49.2364978
+ },
+ {
+   "address": "200 Heatley Ave., Vancouver, BC, Canada",
+   "ticketNumber": 31,
+   "longitude": -123.0894512,
+   "latitude": 49.2829991
+ },
+ {
+   "address": "1500 Semlin Dr., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0635975,
+   "latitude": 49.27153879999999
+ },
+ {
+   "address": "2600 St. Catherines St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0850763,
+   "latitude": 49.2613067
+ },
+ {
+   "address": "2000 1st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 46,
+   "longitude": -123.0636633,
+   "latitude": 49.2693862
+ },
+ {
+   "address": "800 17th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 73,
+   "longitude": -123.1220635,
+   "latitude": 49.25613629999999
+ },
+ {
+   "address": "3800 Dumfries St., Vancouver, BC, Canada",
+   "ticketNumber": 17,
+   "longitude": -123.0729858,
+   "latitude": 49.2510075
+ },
+ {
+   "address": "100 29th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 100,
+   "longitude": -123.0405753,
+   "latitude": 49.2445379
+ },
+ {
+   "address": "600 23rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 40,
+   "longitude": -123.1181542,
+   "latitude": 49.2504554
+ },
+ {
+   "address": "5200 Sherbrooke St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.0813168,
+   "latitude": 49.2374523
+ },
+ {
+   "address": "600 52nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0924991,
+   "latitude": 49.2224753
+ },
+ {
+   "address": "0 2nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 199,
+   "longitude": -123.1416108,
+   "latitude": 49.2696244
+ },
+ {
+   "address": "400 Kamloops St., Vancouver, BC, Canada",
+   "ticketNumber": 43,
+   "longitude": -123.0545935,
+   "latitude": 49.2811438
+ },
+ {
+   "address": "1500 6th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.0715827,
+   "latitude": 49.2648123
+ },
+ {
+   "address": "1300 Bidwell St., Vancouver, BC, Canada",
+   "ticketNumber": 84,
+   "longitude": -123.1417905,
+   "latitude": 49.2850359
+ },
+ {
+   "address": "2100 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1508,
+   "longitude": -123.1529592,
+   "latitude": 49.26802
+ },
+ {
+   "address": "1700 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 685,
+   "longitude": -123.1432774,
+   "latitude": 49.2679897
+ },
+ {
+   "address": "2100 37th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.0637022,
+   "latitude": 49.23673420000001
+ },
+ {
+   "address": "1700 5th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 477,
+   "longitude": -123.1432623,
+   "latitude": 49.2671307
+ },
+ {
+   "address": "1900 13th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0659644,
+   "latitude": 49.2586267
+ },
+ {
+   "address": "2200 4th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2053,
+   "longitude": -123.15535,
+   "latitude": 49.2679266
+ },
+ {
+   "address": "5200 Yew St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1581265,
+   "latitude": 49.2383643
+ },
+ {
+   "address": "800 10th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0869974,
+   "latitude": 49.2613348
+ },
+ {
+   "address": "3900 36th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1909473,
+   "latitude": 49.23949349999999
+ },
+ {
+   "address": "3500 Clark Dr., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0779372,
+   "latitude": 49.2526185
+ },
+ {
+   "address": "3800 36th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.188171,
+   "latitude": 49.2395193
+ },
+ {
+   "address": "2800 Pine St., Vancouver, BC, Canada",
+   "ticketNumber": 52,
+   "longitude": -123.1435063,
+   "latitude": 49.26071349999999
+ },
+ {
+   "address": "2000 Scotia St., Vancouver, BC, Canada",
+   "ticketNumber": 49,
+   "longitude": -123.0987089,
+   "latitude": 49.26737869999999
+ },
+ {
+   "address": "2800 8th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 25,
+   "longitude": -123.1686424,
+   "latitude": 49.2647632
+ },
+ {
+   "address": "1400 Davie St., Vancouver, BC, Canada",
+   "ticketNumber": 130,
+   "longitude": -123.1366643,
+   "latitude": 49.283591
+ },
+ {
+   "address": "5500 Heather St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1208556,
+   "latitude": 49.23556560000001
+ },
+ {
+   "address": "5300 Cecil St., Vancouver, BC, Canada",
+   "ticketNumber": 71,
+   "longitude": -123.0346446,
+   "latitude": 49.2366355
+ },
+ {
+   "address": "1200 12th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0795622,
+   "latitude": 49.2594478
+ },
+ {
+   "address": "2900 Water St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -93.68001330000001,
+   "latitude": 44.8344406
+ },
+ {
+   "address": "900 Kingsway, Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.0853327,
+   "latitude": 49.2541923
+ },
+ {
+   "address": "7100 Prince Edward St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0974727,
+   "latitude": 49.2200196
+ },
+ {
+   "address": "3700 26th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0856723,
+   "latitude": 49.3137325
+ },
+ {
+   "address": "1000 Broughton St., Vancouver, BC, Canada",
+   "ticketNumber": 38,
+   "longitude": -123.1330929,
+   "latitude": 49.2858117
+ },
+ {
+   "address": "2900 38th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1702852,
+   "latitude": 49.2375754
+ },
+ {
+   "address": "4000 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.1151286,
+   "latitude": 49.2499883
+ },
+ {
+   "address": "200 Alexandra St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1414566,
+   "latitude": 49.24934709999999
+ },
+ {
+   "address": "3500 26th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 41,
+   "longitude": -123.181825,
+   "latitude": 49.249004
+ },
+ {
+   "address": "2000 Main St., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1006772,
+   "latitude": 49.2671647
+ },
+ {
+   "address": "6100 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 94,
+   "longitude": -123.118468,
+   "latitude": 49.2479947
+ },
+ {
+   "address": "1200 27th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0800299,
+   "latitude": 49.246257
+ },
+ {
+   "address": "5600 Alma St., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.1864764,
+   "latitude": 49.235678
+ },
+ {
+   "address": "600 Prior St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.091516,
+   "latitude": 49.2764853
+ },
+ {
+   "address": "700 27th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.1206201,
+   "latitude": 49.2469186
+ },
+ {
+   "address": "400 Drake St., Vancouver, BC, Canada",
+   "ticketNumber": 291,
+   "longitude": -123.124565,
+   "latitude": 49.2737874
+ },
+ {
+   "address": "2900 Columbia St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1095939,
+   "latitude": 49.2593896
+ },
+ {
+   "address": "2700 Grandview Hwy. S., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0466296,
+   "latitude": 49.2579339
+ },
+ {
+   "address": "5400 Joyce St., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.034658,
+   "latitude": 49.2354505
+ },
+ {
+   "address": "4100 Willow St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1223274,
+   "latitude": 49.249217
+ },
+ {
+   "address": "4400 Yukon St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.1120595,
+   "latitude": 49.2459997
+ },
+ {
+   "address": "2500 Guelph St., Vancouver, BC, Canada",
+   "ticketNumber": 47,
+   "longitude": -123.0949314,
+   "latitude": 49.26256249999999
+ },
+ {
+   "address": "3200 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.1032397,
+   "latitude": 49.2566081
+ },
+ {
+   "address": "1800 Robson St., Vancouver, BC, Canada",
+   "ticketNumber": 368,
+   "longitude": -123.1354798,
+   "latitude": 49.2912429
+ },
+ {
+   "address": "800 16th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0874946,
+   "latitude": 49.2563921
+ },
+ {
+   "address": "2600 31st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1643177,
+   "latitude": 49.2441919
+ },
+ {
+   "address": "3500 Wellington Ave., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0301623,
+   "latitude": 49.2400809
+ },
+ {
+   "address": "2300 Renfrew St., Vancouver, BC, Canada",
+   "ticketNumber": 13,
+   "longitude": -123.0442994,
+   "latitude": 49.2638487
+ },
+ {
+   "address": "1100 21st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.081846,
+   "latitude": 49.25178709999999
+ },
+ {
+   "address": "300 23rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.1113707,
+   "latitude": 49.2497881
+ },
+ {
+   "address": "8700 French St., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.1392571,
+   "latitude": 49.2070424
+ },
+ {
+   "address": "600 43rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.0923967,
+   "latitude": 49.2308306
+ },
+ {
+   "address": "500 43rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.0939204,
+   "latitude": 49.2310376
+ },
+ {
+   "address": "3800 Sophia St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0983726,
+   "latitude": 49.2522947
+ },
+ {
+   "address": "4500 Highbury St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1878769,
+   "latitude": 49.2492394
+ },
+ {
+   "address": "1100 Hornby St., Vancouver, BC, Canada",
+   "ticketNumber": 340,
+   "longitude": -123.1265073,
+   "latitude": 49.2793247
+ },
+ {
+   "address": "500 52nd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0940198,
+   "latitude": 49.2224772
+ },
+ {
+   "address": "1500 21st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 3,
+   "longitude": -123.073098,
+   "latitude": 49.2516408
+ },
+ {
+   "address": "4000 36th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1937135,
+   "latitude": 49.23949
+ },
+ {
+   "address": "1400 21st Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.076012,
+   "latitude": 49.251685
+ },
+ {
+   "address": "1800 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 21,
+   "longitude": -123.1458714,
+   "latitude": 49.2608943
+ },
+ {
+   "address": "800 Sennock Cr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.2045896,
+   "latitude": 49.2363396
+ },
+ {
+   "address": "200 41st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1107584,
+   "latitude": 49.2332818
+ },
+ {
+   "address": "2100 Semlin Dr., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0638863,
+   "latitude": 49.265949
+ },
+ {
+   "address": "6400 Manitoba St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1083836,
+   "latitude": 49.2267881
+ },
+ {
+   "address": "4500 Culloden St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.0786622,
+   "latitude": 49.24203929999999
+ },
+ {
+   "address": "1200 Pacific St., Vancouver, BC, Canada",
+   "ticketNumber": 109,
+   "longitude": -123.1367991,
+   "latitude": 49.27963279999999
+ },
+ {
+   "address": "4700 Windsor St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0837451,
+   "latitude": 49.242629
+ },
+ {
+   "address": "1500 Larch St., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1618655,
+   "latitude": 49.2723735
+ },
+ {
+   "address": "4000 31st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.193661,
+   "latitude": 49.24428
+ },
+ {
+   "address": "300 Skeena St., Vancouver, BC, Canada",
+   "ticketNumber": 36,
+   "longitude": -123.028124,
+   "latitude": 49.28194430000001
+ },
+ {
+   "address": "1900 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 94,
+   "longitude": -123.1045096,
+   "latitude": 49.2681642
+ },
+ {
+   "address": "2000 36th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0657211,
+   "latitude": 49.2374016
+ },
+ {
+   "address": "800 Bute St., Vancouver, BC, Canada",
+   "ticketNumber": 58,
+   "longitude": -123.1270874,
+   "latitude": 49.2857189
+ },
+ {
+   "address": "3000 Maddams St, Vancouver, BC, Canada",
+   "ticketNumber": 15,
+   "longitude": -123.0750359,
+   "latitude": 49.2566633
+ },
+ {
+   "address": "600 Robson St., Vancouver, BC, Canada",
+   "ticketNumber": 102,
+   "longitude": -123.1192114,
+   "latitude": 49.2806832
+ },
+ {
+   "address": "1900 Charles St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0656948,
+   "latitude": 49.2730194
+ },
+ {
+   "address": "7900 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1165767,
+   "latitude": 49.2133458
+ },
+ {
+   "address": "3700 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 27,
+   "longitude": -123.1272392,
+   "latitude": 49.252577
+ },
+ {
+   "address": "1600 Kitchener St., Vancouver, BC, Canada",
+   "ticketNumber": 266,
+   "longitude": -123.0714956,
+   "latitude": 49.2721623
+ },
+ {
+   "address": "3100 8th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 67,
+   "longitude": -123.0390364,
+   "latitude": 49.2629487
+ },
+ {
+   "address": "400 50th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0973834,
+   "latitude": 49.2243963
+ },
+ {
+   "address": "2900 Ontario St., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.1048061,
+   "latitude": 49.2592305
+ },
+ {
+   "address": "5500 Manson St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1193033,
+   "latitude": 49.2355042
+ },
+ {
+   "address": "1400 Adanac St., Vancouver, BC, Canada",
+   "ticketNumber": 44,
+   "longitude": -123.0755584,
+   "latitude": 49.2774471
+ },
+ {
+   "address": "1100 Lily St, Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.0643118,
+   "latitude": 49.27448649999999
+ },
+ {
+   "address": "2000 7th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.063836,
+   "latitude": 49.263908
+ },
+ {
+   "address": "2600 Arbutus St., Vancouver, BC, Canada",
+   "ticketNumber": 153,
+   "longitude": -123.1529591,
+   "latitude": 49.26286959999999
+ },
+ {
+   "address": "600 Homer St., Vancouver, BC, Canada",
+   "ticketNumber": 566,
+   "longitude": -123.1133673,
+   "latitude": 49.2813121
+ },
+ {
+   "address": "2000 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 342,
+   "longitude": -123.150531,
+   "latitude": 49.2637442
+ },
+ {
+   "address": "1000 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 103,
+   "longitude": -123.1266589,
+   "latitude": 49.2624586
+ },
+ {
+   "address": "400 Hastings St. E., Vancouver, BC, Canada",
+   "ticketNumber": 55,
+   "longitude": -123.0953844,
+   "latitude": 49.2812578
+ },
+ {
+   "address": "1100 Connaught Dr., Vancouver, BC, Canada",
+   "ticketNumber": 7,
+   "longitude": -123.1300222,
+   "latitude": 49.2436221
+ },
+ {
+   "address": "1500 26th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 26,
+   "longitude": -123.0733094,
+   "latitude": 49.2476564
+ },
+ {
+   "address": "600 Bute St., Vancouver, BC, Canada",
+   "ticketNumber": 536,
+   "longitude": -123.1242076,
+   "latitude": 49.28786789999999
+ },
+ {
+   "address": "2900 44th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.044697,
+   "latitude": 49.2297544
+ },
+ {
+   "address": "1000 Robson St., Vancouver, BC, Canada",
+   "ticketNumber": 2010,
+   "longitude": -123.1233137,
+   "latitude": 49.2833507
+ },
+ {
+   "address": "800 Seymour St., Vancouver, BC, Canada",
+   "ticketNumber": 1856,
+   "longitude": -123.1193045,
+   "latitude": 49.280081
+ },
+ {
+   "address": "2400 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 984,
+   "longitude": -123.1175101,
+   "latitude": 49.2641696
+ },
+ {
+   "address": "2900 E. Kent Ave. N., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0420645,
+   "latitude": 49.20684120000001
+ },
+ {
+   "address": "900 Howe St., Vancouver, BC, Canada",
+   "ticketNumber": 863,
+   "longitude": -123.1225148,
+   "latitude": 49.280592
+ },
+ {
+   "address": "500 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 1290,
+   "longitude": -123.1152287,
+   "latitude": 49.263056
+ },
+ {
+   "address": "700 Nelson St., Vancouver, BC, Canada",
+   "ticketNumber": 1050,
+   "longitude": -123.123025,
+   "latitude": 49.2792781
+ },
+ {
+   "address": "1000 Hastings St. W., Vancouver, BC, Canada",
+   "ticketNumber": 1541,
+   "longitude": -123.1171554,
+   "latitude": 49.28716420000001
+ },
+ {
+   "address": "1000 Hamilton St., Vancouver, BC, Canada",
+   "ticketNumber": 1502,
+   "longitude": -123.1189805,
+   "latitude": 49.276537
+ },
+ {
+   "address": "1500 Grant St., Vancouver, BC, Canada",
+   "ticketNumber": 62,
+   "longitude": -123.0735758,
+   "latitude": 49.2714424
+ },
+ {
+   "address": "200 Renfrew St., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0440719,
+   "latitude": 49.2829703
+ },
+ {
+   "address": "400 Lakewood Dr., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.0616964,
+   "latitude": 49.28123100000001
+ },
+ {
+   "address": "1600 13th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 37,
+   "longitude": -123.0715944,
+   "latitude": 49.2584892
+ },
+ {
+   "address": "3800 31st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1882898,
+   "latitude": 49.2442941
+ },
+ {
+   "address": "6600 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.1038256,
+   "latitude": 49.2249415
+ },
+ {
+   "address": "6900 Whithorn ct., Vancouver, BC, Canada",
+   "ticketNumber": 8,
+   "longitude": -123.0312313,
+   "latitude": 49.2204821
+ },
+ {
+   "address": "1800 11th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 126,
+   "longitude": -123.0678278,
+   "latitude": 49.260227
+ },
+ {
+   "address": "600 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.1165344,
+   "latitude": 49.2835069
+ },
+ {
+   "address": "2700 Blanca St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.2152535,
+   "latitude": 49.26305499999999
+ },
+ {
+   "address": "4300 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.1182153,
+   "latitude": 49.2480881
+ },
+ {
+   "address": "3300 8th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0341733,
+   "latitude": 49.2629204
+ },
+ {
+   "address": "7600 Yukon St., Vancouver, BC, Canada",
+   "ticketNumber": 6,
+   "longitude": -123.1151217,
+   "latitude": 49.2102787
+ },
+ {
+   "address": "1700 5th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 21,
+   "longitude": -123.0690611,
+   "latitude": 49.2656104
+ },
+ {
+   "address": "3200 Findlay St., Vancouver, BC, Canada",
+   "ticketNumber": 72,
+   "longitude": -123.0676121,
+   "latitude": 49.2561411
+ },
+ {
+   "address": "900 21st Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 44,
+   "longitude": -123.1247482,
+   "latitude": 49.2524515
+ },
+ {
+   "address": "5200 Ash St., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.1174256,
+   "latitude": 49.23825000000001
+ },
+ {
+   "address": "900 McLean Dr., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0739397,
+   "latitude": 49.2773455
+ },
+ {
+   "address": "1300 70th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 14,
+   "longitude": -123.1345021,
+   "latitude": 49.2085127
+ },
+ {
+   "address": "8000 Hudson St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.13421,
+   "latitude": 49.21303
+ },
+ {
+   "address": "7700 Yukon St., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.1143405,
+   "latitude": 49.2138538
+ },
+ {
+   "address": "2700 34th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.165654,
+   "latitude": 49.24133699999999
+ },
+ {
+   "address": "2600 33rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1640756,
+   "latitude": 49.2421057
+ },
+ {
+   "address": "4200 Heather St., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1202038,
+   "latitude": 49.2480998
+ },
+ {
+   "address": "900 32nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 39,
+   "longitude": -123.1254373,
+   "latitude": 49.2421908
+ },
+ {
+   "address": "900 49th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1267339,
+   "latitude": 49.2264641
+ },
+ {
+   "address": "6600 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.1280016,
+   "latitude": 49.2254562
+ },
+ {
+   "address": "400 24th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 23,
+   "longitude": -123.1845296,
+   "latitude": 49.2510524
+ },
+ {
+   "address": "2600 Carolina St., Vancouver, BC, Canada",
+   "ticketNumber": 16,
+   "longitude": -123.0908826,
+   "latitude": 49.2613259
+ },
+ {
+   "address": "7600 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.129293,
+   "latitude": 49.217111
+ },
+ {
+   "address": "2100 13th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.1530587,
+   "latitude": 49.26006590000001
+ },
+ {
+   "address": "0 Hemlock St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1361732,
+   "latitude": 49.2625954
+ },
+ {
+   "address": "1800 Creelman Ave., Vancouver, BC, Canada",
+   "ticketNumber": 65,
+   "longitude": -123.1466472,
+   "latitude": 49.27429619999999
+ },
+ {
+   "address": "500 27th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.1156521,
+   "latitude": 49.2470234
+ },
+ {
+   "address": "2900 3rd Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 5,
+   "longitude": -123.1701433,
+   "latitude": 49.2691349
+ },
+ {
+   "address": "200 Drake St., Vancouver, BC, Canada",
+   "ticketNumber": 215,
+   "longitude": -123.1232093,
+   "latitude": 49.273142
+ },
+ {
+   "address": "2500 Trutch St., Vancouver, BC, Canada",
+   "ticketNumber": 72,
+   "longitude": -123.1759262,
+   "latitude": 49.2639419
+ },
+ {
+   "address": "2900 Broadway St. W., Vancouver, BC, Canada",
+   "ticketNumber": 349,
+   "longitude": -123.1700814,
+   "latitude": 49.26412329999999
+ },
+ {
+   "address": "4300 Alma St., Vancouver, BC, Canada",
+   "ticketNumber": 28,
+   "longitude": -123.1860798,
+   "latitude": 49.25803759999999
+ },
+ {
+   "address": "1500 14th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 188,
+   "longitude": -123.1387331,
+   "latitude": 49.2589157
+ },
+ {
+   "address": "6200 Fraser St., Vancouver, BC, Canada",
+   "ticketNumber": 38,
+   "longitude": -123.0904209,
+   "latitude": 49.2283351
+ },
+ {
+   "address": "2400 2nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 67,
+   "longitude": -123.1598012,
+   "latitude": 49.2700149
+ },
+ {
+   "address": "2500 Blenheim St., Vancouver, BC, Canada",
+   "ticketNumber": 103,
+   "longitude": -123.177737,
+   "latitude": 49.26457079999999
+ },
+ {
+   "address": "300 Keefer St., Vancouver, BC, Canada",
+   "ticketNumber": 201,
+   "longitude": -123.097189,
+   "latitude": 49.279438
+ },
+ {
+   "address": "1000 Gilford St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.1402027,
+   "latitude": 49.2903964
+ },
+ {
+   "address": "200 29th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 152,
+   "longitude": -123.0405753,
+   "latitude": 49.2445379
+ },
+ {
+   "address": "700 49th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 22,
+   "longitude": -123.0908704,
+   "latitude": 49.2254564
+ },
+ {
+   "address": "2000 Pendrell St., Vancouver, BC, Canada",
+   "ticketNumber": 59,
+   "longitude": -123.1436955,
+   "latitude": 49.289887
+ },
+ {
+   "address": "500 65th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 80,
+   "longitude": -123.1175236,
+   "latitude": 49.2112299
+ },
+ {
+   "address": "1600 3rd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 369,
+   "longitude": -123.1407953,
+   "latitude": 49.2688397
+ },
+ {
+   "address": "1500 12th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 165,
+   "longitude": -123.138792,
+   "latitude": 49.2607481
+ },
+ {
+   "address": "5200 Joyce St., Vancouver, BC, Canada",
+   "ticketNumber": 56,
+   "longitude": -123.0325875,
+   "latitude": 49.23745719999999
+ },
+ {
+   "address": "1400 Harwood St., Vancouver, BC, Canada",
+   "ticketNumber": 139,
+   "longitude": -123.1389192,
+   "latitude": 49.2822871
+ },
+ {
+   "address": "900 Georgia St. W., Vancouver, BC, Canada",
+   "ticketNumber": 68,
+   "longitude": -123.1207825,
+   "latitude": 49.2837494
+ },
+ {
+   "address": "1600 Manitoba St., Vancouver, BC, Canada",
+   "ticketNumber": 378,
+   "longitude": -123.1068869,
+   "latitude": 49.2711583
+ },
+ {
+   "address": "5900 Beatrice St., Vancouver, BC, Canada",
+   "ticketNumber": 9,
+   "longitude": -123.066933,
+   "latitude": 49.230528
+ },
+ {
+   "address": "2900 8th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 54,
+   "longitude": -123.044219,
+   "latitude": 49.2629557
+ },
+ {
+   "address": "2600 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 165,
+   "longitude": -123.1266596,
+   "latitude": 49.2624533
+ },
+ {
+   "address": "2500 Hemlock St., Vancouver, BC, Canada",
+   "ticketNumber": 123,
+   "longitude": -123.1361501,
+   "latitude": 49.2630858
+ },
+ {
+   "address": "500 Helmcken St., Vancouver, BC, Canada",
+   "ticketNumber": 249,
+   "longitude": -123.1233299,
+   "latitude": 49.2771532
+ },
+ {
+   "address": "5100 Joyce St., Vancouver, BC, Canada",
+   "ticketNumber": 275,
+   "longitude": -123.0318373,
+   "latitude": 49.238222
+ },
+ {
+   "address": "2100 47th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.0637139,
+   "latitude": 49.2276142
+ },
+ {
+   "address": "2300 Cambie St., Vancouver, BC, Canada",
+   "ticketNumber": 19,
+   "longitude": -123.114727,
+   "latitude": 49.2649404
+ },
+ {
+   "address": "500 22nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 35,
+   "longitude": -123.1156526,
+   "latitude": 49.25131409999999
+ },
+ {
+   "address": "900 10th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 300,
+   "longitude": -123.1242375,
+   "latitude": 49.2624179
+ },
+ {
+   "address": "2600 Heather St., Vancouver, BC, Canada",
+   "ticketNumber": 112,
+   "longitude": -123.1199104,
+   "latitude": 49.2623486
+ },
+ {
+   "address": "2000 13th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 30,
+   "longitude": -123.0642257,
+   "latitude": 49.2584267
+ },
+ {
+   "address": "1100 Granville St., Vancouver, BC, Canada",
+   "ticketNumber": 161,
+   "longitude": -123.1246014,
+   "latitude": 49.2778204
+ },
+ {
+   "address": "1400 Beach Ave., Vancouver, BC, Canada",
+   "ticketNumber": 82,
+   "longitude": -123.1393589,
+   "latitude": 49.28148840000001
+ },
+ {
+   "address": "3100 Oak St., Vancouver, BC, Canada",
+   "ticketNumber": 45,
+   "longitude": -123.1270194,
+   "latitude": 49.2578206
+ },
+ {
+   "address": "700 28th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 45,
+   "longitude": -123.0902284,
+   "latitude": 49.2455621
+ },
+ {
+   "address": "1100 Mainland St, Vancouver, BC, Canada",
+   "ticketNumber": 1598,
+   "longitude": -123.1205451,
+   "latitude": 49.2755027
+ },
+ {
+   "address": "300 Robson St., Vancouver, BC, Canada",
+   "ticketNumber": 499,
+   "longitude": -123.1159258,
+   "latitude": 49.2788392
+ },
+ {
+   "address": "2000 Salsbury Dr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.0673529,
+   "latitude": 49.26988619999999
+ },
+ {
+   "address": "2200 8th Ave E., Vancouver, BC, Canada",
+   "ticketNumber": 12,
+   "longitude": -123.0599573,
+   "latitude": 49.2629741
+ },
+ {
+   "address": "3300 Valley Dr., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.164086,
+   "latitude": 49.2567963
+ },
+ {
+   "address": "4200 Laurel St., Vancouver, BC, Canada",
+   "ticketNumber": 1,
+   "longitude": -123.1247338,
+   "latitude": 49.24858330000001
+ },
+ {
+   "address": "500 50th Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 10,
+   "longitude": -123.0941155,
+   "latitude": 49.2245593
+ },
+ {
+   "address": "700 42nd Ave W., Vancouver, BC, Canada",
+   "ticketNumber": 11,
+   "longitude": -123.123546,
+   "latitude": 49.2326861
+ },
+ {
+   "address": "2200 Quebec St., Vancouver, BC, Canada",
+   "ticketNumber": 29,
+   "longitude": -123.102221,
+   "latitude": 49.2661977
+ },
+ {
+   "address": "5800 Fleming St., Vancouver, BC, Canada",
+   "ticketNumber": 2,
+   "longitude": -123.0726336,
+   "latitude": 49.23177159999999
+ },
+ {
+   "address": "1300 King Edward Ave. E., Vancouver, BC, Canada",
+   "ticketNumber": 4,
+   "longitude": -123.0774732,
+   "latitude": 49.248548
+ }
+]

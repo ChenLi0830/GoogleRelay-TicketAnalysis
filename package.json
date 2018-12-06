@@ -8,6 +8,9 @@
   },
   "dependencies": {
     "expo": "^31.0.2",
+    "fast-csv": "^2.4.1",
+    "lodash": "^4.17.11",
+    "node-geocoder": "^3.22.0",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
   },
